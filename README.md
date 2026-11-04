@@ -21,4 +21,4 @@ Repository containing scripts, analyses, notes, and visualisations related to bi
 
 ## Related Projects
 
-- Searching for Cullumanus - see my cullumanus repository
+- Searching for Cullum's Bee - see my cullumanus repository
