@@ -1,0 +1,1270 @@
+"OTU_ID","Rank","Parent_OTU_ID","Subfamily","Tribe","Genus","Species","Subspecies","Accepted_Name","Author","Year"
+5974,"family",NA,NA,NA,"Cicadidae",NA,NA,"Cicadidae","Batsch",1789
+5975,"subfamily",5974,"Cicadettinae",NA,"Cicadettinae",NA,NA,"Cicadettinae","Buckton",1890
+5976,"tribe",5975,"Cicadettinae","Aragualnini","Aragualnini",NA,NA,"Aragualnini","Sanborn",2018
+5977,"genus",5976,"Cicadettinae","Aragualnini","Aragualna",NA,NA,"Aragualna","Champanhet, Boulard & Gaiani",2000
+5978,"species",5977,"Cicadettinae","Aragualnini","Aragualna","plenalinea",NA,"Aragualna plenalinea","Champanhet, Boulard & Gaiani",2000
+5980,"tribe",5975,"Cicadettinae","Carinetini","Carinetini",NA,NA,"Carinetini","Distant",1905
+5982,"genus",5980,"Cicadettinae","Carinetini","Ahomana",NA,NA,"Ahomana","Distant",1905
+5983,"species",5982,"Cicadettinae","Carinetini","Ahomana","chilensis",NA,"Ahomana chilensis","Distant",1905
+5984,"species",5982,"Cicadettinae","Carinetini","Ahomana","neotropicalis",NA,"Ahomana neotropicalis","Distant",1905
+5985,"genus",5980,"Cicadettinae","Carinetini","Carineta",NA,NA,"Carineta","Amyot & Audinet-Serville",1843
+570530,"species",5985,"Cicadettinae","Carinetini","Carineta","acommosis",NA,"Carineta acommosis","Sanborn",2020
+5993,"species",5985,"Cicadettinae","Carinetini","Carineta","aestiva",NA,"Carineta aestiva","Distant",1883
+5994,"species",5985,"Cicadettinae","Carinetini","Carineta","apicalis",NA,"Carineta apicalis","Distant",1883
+5995,"species",5985,"Cicadettinae","Carinetini","Carineta","apicoinfuscata",NA,"Carineta apicoinfuscata","Sanborn",2011
+5996,"species",5985,"Cicadettinae","Carinetini","Carineta","aratayensis",NA,"Carineta aratayensis","Boulard",1986
+5997,"species",5985,"Cicadettinae","Carinetini","Carineta","argentea",NA,"Carineta argentea","Walker",1852
+6000,"species",5985,"Cicadettinae","Carinetini","Carineta","basalis",NA,"Carineta basalis","Walker",1850
+540634,"species",5985,"Cicadettinae","Carinetini","Carineta","bidigitata",NA,"Carineta bidigitata","Sanborn",2019
+6029,"species",5985,"Cicadettinae","Carinetini","Carineta","bilineosa",NA,"Carineta bilineosa","Walker",1858
+570531,"species",5985,"Cicadettinae","Carinetini","Carineta","bitorquata",NA,"Carineta bitorquata","Sanborn",2020
+6001,"species",5985,"Cicadettinae","Carinetini","Carineta","boliviana",NA,"Carineta boliviana","Distant",1905
+6002,"species",5985,"Cicadettinae","Carinetini","Carineta","boulardi",NA,"Carineta boulardi","Champanhet",1999
+6003,"species",5985,"Cicadettinae","Carinetini","Carineta","calida",NA,"Carineta calida","Walker",1858
+6004,"species",5985,"Cicadettinae","Carinetini","Carineta","carayoni",NA,"Carineta carayoni","Boulard",1986
+1473131,"species",5985,"Cicadettinae","Carinetini","Carineta","castaneala",NA,"Carineta castaneala","Sanborn",2026
+570532,"species",5985,"Cicadettinae","Carinetini","Carineta","castaneopercula",NA,"Carineta castaneopercula","Sanborn",2020
+6005,"species",5985,"Cicadettinae","Carinetini","Carineta","cearana",NA,"Carineta cearana","Distant",1906
+6007,"species",5985,"Cicadettinae","Carinetini","Carineta","centralis",NA,"Carineta centralis","Distant",1892
+6008,"species",5985,"Cicadettinae","Carinetini","Carineta","cinara",NA,"Carineta cinara","Distant",1883
+6009,"species",5985,"Cicadettinae","Carinetini","Carineta","cingenda",NA,"Carineta cingenda","Distant",1883
+6010,"species",5985,"Cicadettinae","Carinetini","Carineta","congrua",NA,"Carineta congrua","Walker",1858
+599686,"species",5985,"Cicadettinae","Carinetini","Carineta","coronida",NA,"Carineta coronida","Sanborn",2020
+6011,"species",5985,"Cicadettinae","Carinetini","Carineta","crassicauda",NA,"Carineta crassicauda","Torres",1948
+1082434,"species",5985,"Cicadettinae","Carinetini","Carineta","cretatabasilaris",NA,"Carineta cretatabasilaris","Sanborn",2024
+6013,"species",5985,"Cicadettinae","Carinetini","Carineta","cristalinea",NA,"Carineta cristalinea","Champanhet",2001
+6014,"species",5985,"Cicadettinae","Carinetini","Carineta","crocea",NA,"Carineta crocea","Distant",1883
+6015,"species",5985,"Cicadettinae","Carinetini","Carineta","crumena",NA,"Carineta crumena","Goding",1925
+6016,"species",5985,"Cicadettinae","Carinetini","Carineta","cyrili",NA,"Carineta cyrili","Champanhet",1999
+6017,"species",5985,"Cicadettinae","Carinetini","Carineta","detoulgoueti",NA,"Carineta detoulgoueti","Champanhet",2001
+6018,"species",5985,"Cicadettinae","Carinetini","Carineta","diardi",NA,"Carineta diardi","Guérin-Méneville",1829
+570535,"species",5985,"Cicadettinae","Carinetini","Carineta","dicrophryxothrix",NA,"Carineta dicrophryxothrix","Sanborn",2020
+570536,"species",5985,"Cicadettinae","Carinetini","Carineta","digitata",NA,"Carineta digitata","Sanborn",2020
+6024,"species",5985,"Cicadettinae","Carinetini","Carineta","dolosa",NA,"Carineta dolosa","Boulard",1986
+6025,"species",5985,"Cicadettinae","Carinetini","Carineta","doxiptera",NA,"Carineta doxiptera","Walker",1858
+6026,"species",5985,"Cicadettinae","Carinetini","Carineta","durantoni",NA,"Carineta durantoni","Boulard",1986
+6027,"species",5985,"Cicadettinae","Carinetini","Carineta","ecuatoriana",NA,"Carineta ecuatoriana","Goding",1925
+570730,"species",5985,"Cicadettinae","Carinetini","Carineta","ensifera",NA,"Carineta ensifera","Sanborn",2019
+6028,"species",5985,"Cicadettinae","Carinetini","Carineta","fasciculata",NA,"Carineta fasciculata","Germar",1821
+6034,"species",5985,"Cicadettinae","Carinetini","Carineta","fimbriata",NA,"Carineta fimbriata","Distant",1891
+6035,"species",5985,"Cicadettinae","Carinetini","Carineta","garleppi",NA,"Carineta garleppi","Jacobi",1907
+6036,"species",5985,"Cicadettinae","Carinetini","Carineta","gemella",NA,"Carineta gemella","Boulard",1986
+6037,"species",5985,"Cicadettinae","Carinetini","Carineta","genitalostridens",NA,"Carineta genitalostridens","Boulard",1986
+570731,"species",5985,"Cicadettinae","Carinetini","Carineta","hamata",NA,"Carineta hamata","Sanborn",2019
+6039,"species",5985,"Cicadettinae","Carinetini","Carineta","illustris",NA,"Carineta illustris","Distant",1905
+6040,"species",5985,"Cicadettinae","Carinetini","Carineta","imperfecta",NA,"Carineta imperfecta","Boulard",1986
+6041,"species",5985,"Cicadettinae","Carinetini","Carineta","indecora",NA,"Carineta indecora","Walker",1858
+6042,"species",5985,"Cicadettinae","Carinetini","Carineta","lichiana",NA,"Carineta lichiana","Boulard",1986
+6044,"species",5985,"Cicadettinae","Carinetini","Carineta","liturata",NA,"Carineta liturata","Torres",1948
+6045,"species",5985,"Cicadettinae","Carinetini","Carineta","lydiae",NA,"Carineta lydiae","Champanhet",1999
+6046,"species",5985,"Cicadettinae","Carinetini","Carineta","maculosa",NA,"Carineta maculosa","Torres",1948
+559903,"species",5985,"Cicadettinae","Carinetini","Carineta","maracayensis",NA,"Carineta maracayensis","Sanborn",2020
+6049,"species",5985,"Cicadettinae","Carinetini","Carineta","matura",NA,"Carineta matura","Distant",1892
+6050,"species",5985,"Cicadettinae","Carinetini","Carineta","modesta",NA,"Carineta modesta","Sanborn",2011
+6051,"species",5985,"Cicadettinae","Carinetini","Carineta","naponore",NA,"Carineta naponore","Boulard",1986
+570537,"species",5985,"Cicadettinae","Carinetini","Carineta","nigrafissura",NA,"Carineta nigrafissura","Sanborn",2020
+6052,"species",5985,"Cicadettinae","Carinetini","Carineta","peruviana",NA,"Carineta peruviana","Distant",1905
+570732,"species",5985,"Cicadettinae","Carinetini","Carineta","pictilis",NA,"Carineta pictilis","Sanborn",2019
+6054,"species",5985,"Cicadettinae","Carinetini","Carineta","pilifera",NA,"Carineta pilifera","Walker",1858
+6055,"species",5985,"Cicadettinae","Carinetini","Carineta","pilosa",NA,"Carineta pilosa","Walker",1850
+6056,"species",5985,"Cicadettinae","Carinetini","Carineta","platensis",NA,"Carineta platensis","Berg",1882
+6057,"species",5985,"Cicadettinae","Carinetini","Carineta","porioni",NA,"Carineta porioni","Champanhet",2001
+6058,"species",5985,"Cicadettinae","Carinetini","Carineta","postica",NA,"Carineta postica","Walker",1858
+6060,"species",5985,"Cicadettinae","Carinetini","Carineta","producta",NA,"Carineta producta","Walker",1858
+6061,"species",5985,"Cicadettinae","Carinetini","Carineta","propinqua",NA,"Carineta propinqua","Torres",1948
+1473132,"species",5985,"Cicadettinae","Carinetini","Carineta","pygmaetrivittata",NA,"Carineta pygmaetrivittata","Sanborn",2026
+570539,"species",5985,"Cicadettinae","Carinetini","Carineta","quadrofastigiata",NA,"Carineta quadrofastigiata","Sanborn",2020
+6063,"species",5985,"Cicadettinae","Carinetini","Carineta","rubricata",NA,"Carineta rubricata","Distant",1883
+6064,"species",5985,"Cicadettinae","Carinetini","Carineta","rufescens",NA,"Carineta rufescens","Fabricius",1803
+570540,"species",5985,"Cicadettinae","Carinetini","Carineta","rumipataensis",NA,"Carineta rumipataensis","Sanborn",2020
+6067,"species",5985,"Cicadettinae","Carinetini","Carineta","rustica",NA,"Carineta rustica","Goding",1925
+6068,"species",5985,"Cicadettinae","Carinetini","Carineta","scripta",NA,"Carineta scripta","Torres",1948
+559904,"species",5985,"Cicadettinae","Carinetini","Carineta","seriemaculata",NA,"Carineta seriemaculata","Sanborn",2020
+6069,"species",5985,"Cicadettinae","Carinetini","Carineta","socia",NA,"Carineta socia","Uhler",1875
+6071,"species",5985,"Cicadettinae","Carinetini","Carineta","spoliata",NA,"Carineta spoliata","Walker",1858
+6072,"species",5985,"Cicadettinae","Carinetini","Carineta","strigilifera",NA,"Carineta strigilifera","Boulard",1986
+6073,"species",5985,"Cicadettinae","Carinetini","Carineta","submarginata",NA,"Carineta submarginata","Walker",1850
+6074,"species",5985,"Cicadettinae","Carinetini","Carineta","tetraspila",NA,"Carineta tetraspila","Jacobi",1907
+599687,"species",5985,"Cicadettinae","Carinetini","Carineta","tiarata",NA,"Carineta tiarata","Sanborn",2020
+570543,"species",5985,"Cicadettinae","Carinetini","Carineta","tingomariaensis",NA,"Carineta tingomariaensis","Sanborn",2020
+6076,"species",5985,"Cicadettinae","Carinetini","Carineta","titschacki",NA,"Carineta titschacki","Jacobi",1951
+6079,"species",5985,"Cicadettinae","Carinetini","Carineta","tracta",NA,"Carineta tracta","Distant",1892
+570544,"species",5985,"Cicadettinae","Carinetini","Carineta","tricuspis",NA,"Carineta tricuspis","Sanborn",2020
+584361,"species",5985,"Cicadettinae","Carinetini","Carineta","trinidadensis",NA,"Carineta trinidadensis","Sanborn",2020
+6080,"species",5985,"Cicadettinae","Carinetini","Carineta","trivittata",NA,"Carineta trivittata","Walker",1858
+570733,"species",5985,"Cicadettinae","Carinetini","Carineta","uncinata",NA,"Carineta uncinata","Sanborn",2019
+6083,"species",5985,"Cicadettinae","Carinetini","Carineta","urostridulens",NA,"Carineta urostridulens","Boulard",1986
+6084,"species",5985,"Cicadettinae","Carinetini","Carineta","ventralis",NA,"Carineta ventralis","Jacobi",1907
+6085,"species",5985,"Cicadettinae","Carinetini","Carineta","ventrilloni",NA,"Carineta ventrilloni","Boulard",1986
+6086,"species",5985,"Cicadettinae","Carinetini","Carineta","verna",NA,"Carineta verna","Distant",1883
+6087,"species",5985,"Cicadettinae","Carinetini","Carineta","viridicata",NA,"Carineta viridicata","Distant",1883
+8286,"genus",5980,"Cicadettinae","Carinetini","Dorachosa",NA,NA,"Dorachosa","Distant",1892
+739088,"species",8286,"Cicadettinae","Carinetini","Dorachosa","acclivis",NA,"Dorachosa acclivis","Sanborn",2017
+6097,"species",8286,"Cicadettinae","Carinetini","Dorachosa","ancilla",NA,"Dorachosa ancilla","Stål",1864
+540635,"species",8286,"Cicadettinae","Carinetini","Dorachosa","aurenigrapilosa",NA,"Dorachosa aurenigrapilosa","Sanborn",2019
+599345,"species",8286,"Cicadettinae","Carinetini","Dorachosa","barrocoloradoensis",NA,"Dorachosa barrocoloradoensis","Sanborn",2020
+1082435,"species",8286,"Cicadettinae","Carinetini","Dorachosa","bilabeculafissura",NA,"Dorachosa bilabeculafissura","Sanborn",2024
+1058149,"species",8286,"Cicadettinae","Carinetini","Dorachosa","castaneanigricula",NA,"Dorachosa castaneanigricula","Sanborn",2024
+570545,"species",8286,"Cicadettinae","Carinetini","Dorachosa","castanetorquata",NA,"Dorachosa castanetorquata","Sanborn",2020
+570546,"species",8286,"Cicadettinae","Carinetini","Dorachosa","cephalodigramma",NA,"Dorachosa cephalodigramma","Sanborn",2020
+570547,"species",8286,"Cicadettinae","Carinetini","Dorachosa","chanchamayoensis",NA,"Dorachosa chanchamayoensis","Sanborn",2020
+584412,"species",8286,"Cicadettinae","Carinetini","Dorachosa","chelappendicula",NA,"Dorachosa chelappendicula","Sanborn",2020
+6108,"species",8286,"Cicadettinae","Carinetini","Dorachosa","compostelensis",NA,"Dorachosa compostelensis","Davis",1938
+570734,"species",8286,"Cicadettinae","Carinetini","Dorachosa","concolor",NA,"Dorachosa concolor","Sanborn",2019
+6101,"species",8286,"Cicadettinae","Carinetini","Dorachosa","coyamensis",NA,"Dorachosa coyamensis","Sanborn",2007
+6012,"species",8286,"Cicadettinae","Carinetini","Dorachosa","criqualicae",NA,"Dorachosa criqualicae","Boulard",1986
+570548,"species",8286,"Cicadettinae","Carinetini","Dorachosa","dentata",NA,"Dorachosa dentata","Sanborn",2020
+8287,"species",8286,"Cicadettinae","Carinetini","Dorachosa","explicata",NA,"Dorachosa explicata","Distant",1892
+570735,"species",8286,"Cicadettinae","Carinetini","Dorachosa","freiae",NA,"Dorachosa freiae","Sanborn",2019
+584362,"species",8286,"Cicadettinae","Carinetini","Dorachosa","grammosticta",NA,"Dorachosa grammosticta","Sanborn",2020
+6038,"species",8286,"Cicadettinae","Carinetini","Dorachosa","guianaensis",NA,"Dorachosa guianaensis","Sanborn",2011
+1082436,"species",8286,"Cicadettinae","Carinetini","Dorachosa","guimararesensis",NA,"Dorachosa guimararesensis","Sanborn",2024
+6102,"species",8286,"Cicadettinae","Carinetini","Dorachosa","humilastrata",NA,"Dorachosa humilastrata","Sanborn & Heath",2014
+6104,"species",8286,"Cicadettinae","Carinetini","Dorachosa","infuscata",NA,"Dorachosa infuscata","Sanborn",2009
+6105,"species",8286,"Cicadettinae","Carinetini","Dorachosa","laticapitata",NA,"Dorachosa laticapitata","Davis",1938
+616116,"species",8286,"Cicadettinae","Carinetini","Dorachosa","lugubrina",NA,"Dorachosa lugubrina","Stål",1864
+6048,"species",8286,"Cicadettinae","Carinetini","Dorachosa","martiniquensis",NA,"Dorachosa martiniquensis","Davis",1934
+570736,"species",8286,"Cicadettinae","Carinetini","Dorachosa","melanomesocranon",NA,"Dorachosa melanomesocranon","Sanborn",2019
+1348262,"species",8286,"Cicadettinae","Carinetini","Dorachosa","mesomexicana",NA,"Dorachosa mesomexicana","Sanborn",2025
+570549,"species",8286,"Cicadettinae","Carinetini","Dorachosa","moyabambaensis",NA,"Dorachosa moyabambaensis","Sanborn",2020
+6109,"species",8286,"Cicadettinae","Carinetini","Dorachosa","nigratorquata",NA,"Dorachosa nigratorquata","Sanborn",2018
+570550,"species",8286,"Cicadettinae","Carinetini","Dorachosa","nigropercula",NA,"Dorachosa nigropercula","Sanborn",2020
+570737,"species",8286,"Cicadettinae","Carinetini","Dorachosa","phyllodes",NA,"Dorachosa phyllodes","Sanborn",2019
+6053,"species",8286,"Cicadettinae","Carinetini","Dorachosa","picadae",NA,"Dorachosa picadae","Jacobi",1907
+570552,"species",8286,"Cicadettinae","Carinetini","Dorachosa","polygramma",NA,"Dorachosa polygramma","Sanborn",2020
+570553,"species",8286,"Cicadettinae","Carinetini","Dorachosa","quadrimacula",NA,"Dorachosa quadrimacula","Sanborn",2020
+559905,"species",8286,"Cicadettinae","Carinetini","Dorachosa","quadroacuminata",NA,"Dorachosa quadroacuminata","Sanborn",2020
+6062,"species",8286,"Cicadettinae","Carinetini","Dorachosa","quinimaculata",NA,"Dorachosa quinimaculata","Sanborn",2011
+13083,"species",8286,"Cicadettinae","Carinetini","Dorachosa","sahlbergi",NA,"Dorachosa sahlbergi","Stål",1854
+6110,"species",8286,"Cicadettinae","Carinetini","Dorachosa","sigillata",NA,"Dorachosa sigillata","Sanborn",2018
+570738,"species",8286,"Cicadettinae","Carinetini","Dorachosa","signifera",NA,"Dorachosa signifera","Sanborn",2019
+6075,"species",8286,"Cicadettinae","Carinetini","Dorachosa","tigrina",NA,"Dorachosa tigrina","Boulard",1986
+6082,"species",8286,"Cicadettinae","Carinetini","Dorachosa","turbida",NA,"Dorachosa turbida","Jacobi",1907
+6111,"species",8286,"Cicadettinae","Carinetini","Dorachosa","umbraphila",NA,"Dorachosa umbraphila","Sanborn & Heath",2014
+6088,"species",8286,"Cicadettinae","Carinetini","Dorachosa","viridicollis",NA,"Dorachosa viridicollis","Germar",1830
+570554,"species",8286,"Cicadettinae","Carinetini","Dorachosa","viriventralis",NA,"Dorachosa viriventralis","Sanborn",2020
+6092,"genus",5980,"Cicadettinae","Carinetini","Guaranisaria",NA,NA,"Guaranisaria","Distant",1905
+6093,"species",6092,"Cicadettinae","Carinetini","Guaranisaria","bicolor",NA,"Guaranisaria bicolor","Torres",1958
+6094,"species",6092,"Cicadettinae","Carinetini","Guaranisaria","dissimilis",NA,"Guaranisaria dissimilis","Distant",1905
+6095,"species",6092,"Cicadettinae","Carinetini","Guaranisaria","llanoi",NA,"Guaranisaria llanoi","Torres",1964
+6113,"genus",5980,"Cicadettinae","Carinetini","Novemcella",NA,NA,"Novemcella","Goding",1925
+6114,"species",6113,"Cicadettinae","Carinetini","Novemcella","ecuatoriana",NA,"Novemcella ecuatoriana","Goding",1925
+6122,"genus",5980,"Cicadettinae","Carinetini","Toulgoetalna",NA,NA,"Toulgoetalna","Boulard",1982
+6123,"species",6122,"Cicadettinae","Carinetini","Toulgoetalna","tavakiliani",NA,"Toulgoetalna tavakiliani","Boulard",1982
+6137,"tribe",5975,"Cicadettinae","Chlorocystini","Chlorocystini",NA,NA,"Chlorocystini","Distant",1905
+6143,"genus",6137,"Cicadettinae","Chlorocystini","Aedeastria",NA,NA,"Aedeastria","Boer",1990
+6144,"species",6143,"Cicadettinae","Chlorocystini","Aedeastria","bullata",NA,"Aedeastria bullata","Boer",1993
+6145,"species",6143,"Cicadettinae","Chlorocystini","Aedeastria","cheesmanae",NA,"Aedeastria cheesmanae","Boer",1993
+6146,"species",6143,"Cicadettinae","Chlorocystini","Aedeastria","cobrops",NA,"Aedeastria cobrops","Boer",1990
+6147,"species",6143,"Cicadettinae","Chlorocystini","Aedeastria","digitata",NA,"Aedeastria digitata","Blöte",1960
+6148,"species",6143,"Cicadettinae","Chlorocystini","Aedeastria","dilobata",NA,"Aedeastria dilobata","Boer",1993
+6149,"species",6143,"Cicadettinae","Chlorocystini","Aedeastria","hastulata",NA,"Aedeastria hastulata","Boer",1993
+6150,"species",6143,"Cicadettinae","Chlorocystini","Aedeastria","kaiensis",NA,"Aedeastria kaiensis","Boer",1993
+6151,"species",6143,"Cicadettinae","Chlorocystini","Aedeastria","latifrons",NA,"Aedeastria latifrons","Blöte",1960
+6154,"species",6143,"Cicadettinae","Chlorocystini","Aedeastria","moluccensis",NA,"Aedeastria moluccensis","Boer",1993
+6155,"species",6143,"Cicadettinae","Chlorocystini","Aedeastria","obiensis",NA,"Aedeastria obiensis","Boer",1993
+6156,"species",6143,"Cicadettinae","Chlorocystini","Aedeastria","sepia",NA,"Aedeastria sepia","Boer",1990
+6157,"species",6143,"Cicadettinae","Chlorocystini","Aedeastria","waigeuensis",NA,"Aedeastria waigeuensis","Boer",1993
+6158,"genus",6137,"Cicadettinae","Chlorocystini","Akamba",NA,NA,"Akamba","Distant",1905
+6160,"species",6158,"Cicadettinae","Chlorocystini","Akamba","aethiopica",NA,"Akamba aethiopica","Distant",1905
+6161,"genus",6137,"Cicadettinae","Chlorocystini","Baeturia",NA,NA,"Baeturia","Stål",1866
+6163,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","arabuensis",NA,"Baeturia arabuensis","Blöte",1960
+6164,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","bemmeleni",NA,"Baeturia bemmeleni","Boer",1994
+6165,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","bicolorata",NA,"Baeturia bicolorata","Distant",1892
+6166,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","bilebanarai",NA,"Baeturia bilebanarai","Boer",1989
+6167,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","bipunctata",NA,"Baeturia bipunctata","Blöte",1960
+6169,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","biroi",NA,"Baeturia biroi","Boer",1994
+6170,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","bismarckensis",NA,"Baeturia bismarckensis","Boer",1989
+6171,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","bloetei",NA,"Baeturia bloetei","Boer",1989
+6173,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","boulardi",NA,"Baeturia boulardi","Boer",1989
+6174,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","brandti",NA,"Baeturia brandti","Boer",1989
+6175,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","brongersmai",NA,"Baeturia brongersmai","Blöte",1960
+6176,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","colossea",NA,"Baeturia colossea","Boer",1994
+6178,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","conviva",NA,"Baeturia conviva","Stål",1861
+6181,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","cristovalensis",NA,"Baeturia cristovalensis","Boer",1989
+6182,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","daviesi",NA,"Baeturia daviesi","Boer",1994
+6183,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","edauberti",NA,"Baeturia edauberti","Boulard",1979
+6187,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","exhausta",NA,"Baeturia exhausta","Guérin-Méneville",1831
+6192,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","fortuini",NA,"Baeturia fortuini","Boer",1994
+6193,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","furcillata",NA,"Baeturia furcillata","Boer",1992
+6194,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","galeata",NA,"Baeturia galeata","Boer",2000
+6195,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","gibberosa",NA,"Baeturia gibberosa","Boer",1994
+6196,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","gressitti",NA,"Baeturia gressitti","Boer",1989
+6197,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","guttulinervis",NA,"Baeturia guttulinervis","Blöte",1960
+6198,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","guttulipennis",NA,"Baeturia guttulipennis","Blöte",1960
+6200,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","hamiltoni",NA,"Baeturia hamiltoni","Boer",1994
+6201,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","hardyi",NA,"Baeturia hardyi","Boer",1986
+6202,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","hartonoi",NA,"Baeturia hartonoi","Boer",1994
+6203,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","inconstans",NA,"Baeturia inconstans","Boer",1994
+6204,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","intermedia",NA,"Baeturia intermedia","Boer",1982
+6205,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","karkarensis",NA,"Baeturia karkarensis","Boer",1992
+6206,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","laminifer",NA,"Baeturia laminifer","Blöte",1960
+6207,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","laperousei",NA,"Baeturia laperousei","Boulard",2005
+6208,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","laureli",NA,"Baeturia laureli","Boer",1986
+6209,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","lorentzi",NA,"Baeturia lorentzi","Boer",1992
+6211,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","loriae",NA,"Baeturia loriae","Distant",1897
+6212,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","maai",NA,"Baeturia maai","Boer",1994
+6213,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","macgillavryi",NA,"Baeturia macgillavryi","Boer",1989
+6217,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","maddisoni",NA,"Baeturia maddisoni","Duffels",1988
+6219,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","mamillata",NA,"Baeturia mamillata","Blöte",1960
+6220,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","manusensis",NA,"Baeturia manusensis","Boer",1989
+6221,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","marginata",NA,"Baeturia marginata","Boer",1989
+6222,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","marmorata",NA,"Baeturia marmorata","Blöte",1960
+6223,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","mendanai",NA,"Baeturia mendanai","Boer",1989
+6224,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","mussauensis",NA,"Baeturia mussauensis","Boer",1989
+6225,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","nasuta",NA,"Baeturia nasuta","Blöte",1960
+6226,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","papuensis",NA,"Baeturia papuensis","Boer",1989
+6227,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","parva",NA,"Baeturia parva","Blöte",1960
+6228,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","pigrami",NA,"Baeturia pigrami","Boer",1994
+6229,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","polhemi",NA,"Baeturia polhemi","Boer",2000
+6230,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","quadrifida",NA,"Baeturia quadrifida","Walker",1868
+6232,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","reijnhoudti",NA,"Baeturia reijnhoudti","Boer",1989
+6235,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","retracta",NA,"Baeturia retracta","Boer",1994
+6236,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","roonensis",NA,"Baeturia roonensis","Boer",1994
+6237,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","rossi",NA,"Baeturia rossi","Boer",1994
+6238,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","rotumae",NA,"Baeturia rotumae","Duffels",1988
+6239,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","rufula",NA,"Baeturia rufula","Blöte",1960
+6241,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","schulzi",NA,"Baeturia schulzi","Schmidt",1926
+6242,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","sedlacekorum",NA,"Baeturia sedlacekorum","Boer",1989
+6243,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","silveri",NA,"Baeturia silveri","Boer",1994
+6244,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","splendida",NA,"Baeturia splendida","Boer",1994
+6245,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","tenuispina",NA,"Baeturia tenuispina","Blöte",1960
+6246,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","turgida",NA,"Baeturia turgida","Boer",1992
+6247,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","uveiensis",NA,"Baeturia uveiensis","Boulard",1996
+6249,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","vanderhammeni",NA,"Baeturia vanderhammeni","Blöte",1960
+6250,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","versicolor",NA,"Baeturia versicolor","Boer",1994
+6251,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","viridis",NA,"Baeturia viridis","Blöte",1960
+6252,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","wauensis",NA,"Baeturia wauensis","Boer",1994
+6253,"species",6161,"Cicadettinae","Chlorocystini","Baeturia","wegeneri",NA,"Baeturia wegeneri","Boer",1994
+6254,"genus",6137,"Cicadettinae","Chlorocystini","Cephalalna",NA,NA,"Cephalalna","Boulard",2006
+6255,"species",6254,"Cicadettinae","Chlorocystini","Cephalalna","francimontana",NA,"Cephalalna francimontana","Boulard",2006
+603422,"species",6254,"Cicadettinae","Chlorocystini","Cephalalna","tulearensis",NA,"Cephalalna tulearensis","Sanborn",2021
+6256,"genus",6137,"Cicadettinae","Chlorocystini","Chlorocysta",NA,NA,"Chlorocysta","Westwood",1851
+6260,"species",6256,"Cicadettinae","Chlorocystini","Chlorocysta","fumea",NA,"Chlorocysta fumea","Ashton",1914
+6262,"species",6256,"Cicadettinae","Chlorocystini","Chlorocysta","suffusa",NA,"Chlorocysta suffusa","Distant",1907
+6263,"species",6256,"Cicadettinae","Chlorocystini","Chlorocysta","vitripennis",NA,"Chlorocysta vitripennis","Westwood",1851
+6273,"genus",6137,"Cicadettinae","Chlorocystini","Cystopsaltria",NA,NA,"Cystopsaltria","Goding & Froggatt",1904
+6274,"species",6273,"Cicadettinae","Chlorocystini","Cystopsaltria","immaculata",NA,"Cystopsaltria immaculata","Goding & Froggatt",1904
+6275,"genus",6137,"Cicadettinae","Chlorocystini","Cystosoma",NA,NA,"Cystosoma","Westwood",1842
+6280,"species",6275,"Cicadettinae","Chlorocystini","Cystosoma","saundersii",NA,"Cystosoma saundersii","Westwood",1842
+6283,"species",6275,"Cicadettinae","Chlorocystini","Cystosoma","schmeltzi",NA,"Cystosoma schmeltzi","Distant",1882
+6285,"genus",6137,"Cicadettinae","Chlorocystini","Decebalus",NA,NA,"Decebalus","Distant",1920
+6286,"species",6285,"Cicadettinae","Chlorocystini","Decebalus","ugandanus",NA,"Decebalus ugandanus","Distant",1920
+6287,"genus",6137,"Cicadettinae","Chlorocystini","Dinarobia",NA,NA,"Dinarobia","Mamet",1957
+6289,"species",6287,"Cicadettinae","Chlorocystini","Dinarobia","claudeae",NA,"Dinarobia claudeae","Orian",1954
+6290,"genus",6137,"Cicadettinae","Chlorocystini","Euthemopsaltria",NA,NA,"Euthemopsaltria","Moulds",2014
+6291,"species",6290,"Cicadettinae","Chlorocystini","Euthemopsaltria","laeta",NA,"Euthemopsaltria laeta","Moulds",2014
+6292,"genus",6137,"Cicadettinae","Chlorocystini","Fractuosella",NA,NA,"Fractuosella","Boulard",1979
+6293,"species",6292,"Cicadettinae","Chlorocystini","Fractuosella","breoni",NA,"Fractuosella breoni","Boulard",1989
+6294,"species",6292,"Cicadettinae","Chlorocystini","Fractuosella","darwini",NA,"Fractuosella darwini","Distant",1905
+6295,"species",6292,"Cicadettinae","Chlorocystini","Fractuosella","vinsoni",NA,"Fractuosella vinsoni","Boulard",1979
+6296,"species",6292,"Cicadettinae","Chlorocystini","Fractuosella","virginiae",NA,"Fractuosella virginiae","Boulard",1979
+6297,"genus",6137,"Cicadettinae","Chlorocystini","Glaucopsaltria",NA,NA,"Glaucopsaltria","Goding & Froggatt",1904
+6299,"species",6297,"Cicadettinae","Chlorocystini","Glaucopsaltria","viridis",NA,"Glaucopsaltria viridis","Goding & Froggatt",1904
+6300,"genus",6137,"Cicadettinae","Chlorocystini","Guineapsaltria",NA,NA,"Guineapsaltria","Boer",1993
+6301,"species",6300,"Cicadettinae","Chlorocystini","Guineapsaltria","chinai",NA,"Guineapsaltria chinai","Blöte",1960
+6302,"species",6300,"Cicadettinae","Chlorocystini","Guineapsaltria","flava",NA,"Guineapsaltria flava","Goding & Froggatt",1904
+6307,"species",6300,"Cicadettinae","Chlorocystini","Guineapsaltria","flaveola",NA,"Guineapsaltria flaveola","Boer",1993
+6308,"species",6300,"Cicadettinae","Chlorocystini","Guineapsaltria","pallida",NA,"Guineapsaltria pallida","Blöte",1960
+6309,"species",6300,"Cicadettinae","Chlorocystini","Guineapsaltria","pallidula",NA,"Guineapsaltria pallidula","Boer",1993
+6310,"species",6300,"Cicadettinae","Chlorocystini","Guineapsaltria","pennyi",NA,"Guineapsaltria pennyi","Boer",1993
+6311,"species",6300,"Cicadettinae","Chlorocystini","Guineapsaltria","stylata",NA,"Guineapsaltria stylata","Blöte",1960
+6312,"species",6300,"Cicadettinae","Chlorocystini","Guineapsaltria","viridula",NA,"Guineapsaltria viridula","Blöte",1960
+6313,"genus",6137,"Cicadettinae","Chlorocystini","Gymnotympana",NA,NA,"Gymnotympana","Stål",1862
+6314,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","boeri",NA,"Gymnotympana boeri","Sanborn",2015
+6315,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","dahli",NA,"Gymnotympana dahli","Kuhlgatz",1905
+6318,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","hirsuta",NA,"Gymnotympana hirsuta","Boer",1995
+6319,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","langeraki",NA,"Gymnotympana langeraki","Boer",1995
+6320,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","leucogramma",NA,"Gymnotympana leucogramma","Sanborn",2015
+6321,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","membrana",NA,"Gymnotympana membrana","Boer",1995
+6322,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","minoramembrana",NA,"Gymnotympana minoramembrana","Boer",1995
+6323,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","montana",NA,"Gymnotympana montana","Boer",1995
+6324,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","nigravirgula",NA,"Gymnotympana nigravirgula","Boer",1995
+6325,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","obiensis",NA,"Gymnotympana obiensis","Boer",1995
+6326,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","olivacea",NA,"Gymnotympana olivacea","Distant",1905
+6327,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","parvula",NA,"Gymnotympana parvula","Boer",1995
+6328,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","phyloglycera",NA,"Gymnotympana phyloglycera","Boer",1995
+6329,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","rubricata",NA,"Gymnotympana rubricata","Distant",1897
+6333,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","rufa",NA,"Gymnotympana rufa","Ashton",1914
+6334,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","stenocephalis",NA,"Gymnotympana stenocephalis","Boer",1995
+6335,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","strepitans",NA,"Gymnotympana strepitans","Stål",1861
+6336,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","stridens",NA,"Gymnotympana stridens","Stål",1861
+6338,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","subnotata",NA,"Gymnotympana subnotata","Walker",1868
+6341,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","varicolor",NA,"Gymnotympana varicolor","Distant",1907
+6345,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","verlaani",NA,"Gymnotympana verlaani","Boer",1995
+6346,"species",6313,"Cicadettinae","Chlorocystini","Gymnotympana","viridis",NA,"Gymnotympana viridis","Boer",1995
+6347,"genus",6137,"Cicadettinae","Chlorocystini","Kumanga",NA,NA,"Kumanga","Distant",1905
+6348,"species",6347,"Cicadettinae","Chlorocystini","Kumanga","sandaracata",NA,"Kumanga sandaracata","Distant",1888
+6349,"genus",6137,"Cicadettinae","Chlorocystini","Mirabilopsaltria",NA,NA,"Mirabilopsaltria","Boer",1996
+6353,"species",6349,"Cicadettinae","Chlorocystini","Mirabilopsaltria","globulata",NA,"Mirabilopsaltria globulata","Boer",1996
+6356,"species",6349,"Cicadettinae","Chlorocystini","Mirabilopsaltria","humilis",NA,"Mirabilopsaltria humilis","Blöte",1960
+6357,"species",6349,"Cicadettinae","Chlorocystini","Mirabilopsaltria","inconspicua",NA,"Mirabilopsaltria inconspicua","Boer",1996
+6360,"species",6349,"Cicadettinae","Chlorocystini","Mirabilopsaltria","inflata",NA,"Mirabilopsaltria inflata","Boer",1996
+6363,"species",6349,"Cicadettinae","Chlorocystini","Mirabilopsaltria","toxopeusi",NA,"Mirabilopsaltria toxopeusi","Blöte",1960
+6364,"species",6349,"Cicadettinae","Chlorocystini","Mirabilopsaltria","viridicata",NA,"Mirabilopsaltria viridicata","Distant",1897
+6379,"genus",6137,"Cicadettinae","Chlorocystini","Musoda",NA,NA,"Musoda","Karsch",1890
+6380,"species",6379,"Cicadettinae","Chlorocystini","Musoda","flavida",NA,"Musoda flavida","Karsch",1890
+6381,"species",6379,"Cicadettinae","Chlorocystini","Musoda","gigantea",NA,"Musoda gigantea","Distant",1914
+6382,"species",6379,"Cicadettinae","Chlorocystini","Musoda","occidentalis",NA,"Musoda occidentalis","Boulard",1974
+6383,"species",6379,"Cicadettinae","Chlorocystini","Musoda","orientalis",NA,"Musoda orientalis","Boulard",1974
+6384,"genus",6137,"Cicadettinae","Chlorocystini","Owra",NA,NA,"Owra","Ashton",1912
+6385,"species",6384,"Cicadettinae","Chlorocystini","Owra","insignis",NA,"Owra insignis","Ashton",1912
+6386,"genus",6137,"Cicadettinae","Chlorocystini","Papuapsaltria",NA,NA,"Papuapsaltria","Boer",1995
+6387,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","angulata",NA,"Papuapsaltria angulata","Boer",1995
+6388,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","baasi",NA,"Papuapsaltria baasi","Boer",1995
+6389,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","bidigitula",NA,"Papuapsaltria bidigitula","Boer",1995
+6390,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","bosaviensis",NA,"Papuapsaltria bosaviensis","Boer",2000
+6391,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","brassi",NA,"Papuapsaltria brassi","Boer",1995
+6392,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","dioedes",NA,"Papuapsaltria dioedes","Boer",1995
+6393,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","dolabrata",NA,"Papuapsaltria dolabrata","Boer",1995
+6394,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","goniodes",NA,"Papuapsaltria goniodes","Boer",1995
+6396,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","lachlani",NA,"Papuapsaltria lachlani","Boer",1995
+6397,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","nana",NA,"Papuapsaltria nana","Jacobi",1903
+6401,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","novariae",NA,"Papuapsaltria novariae","Boer",1995
+6402,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","phyllophora",NA,"Papuapsaltria phyllophora","Blöte",1960
+6403,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","plicata",NA,"Papuapsaltria plicata","Boer",1995
+6404,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","pusilla",NA,"Papuapsaltria pusilla","Boer",2000
+6405,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","spinigera",NA,"Papuapsaltria spinigera","Boer",1995
+6406,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","stoliodes",NA,"Papuapsaltria stoliodes","Boer",1995
+6407,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","toxopei",NA,"Papuapsaltria toxopei","Boer",1995
+6408,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","ungula",NA,"Papuapsaltria ungula","Boer",1995
+6409,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","ustulata",NA,"Papuapsaltria ustulata","Blöte",1960
+6410,"species",6386,"Cicadettinae","Chlorocystini","Papuapsaltria","woodlarkensis",NA,"Papuapsaltria woodlarkensis","Boer",1995
+6411,"genus",6137,"Cicadettinae","Chlorocystini","Scottotympana",NA,NA,"Scottotympana","Boer",1991
+6412,"species",6411,"Cicadettinae","Chlorocystini","Scottotympana","biardae",NA,"Scottotympana biardae","Boer",1991
+6413,"species",6411,"Cicadettinae","Chlorocystini","Scottotympana","huibregtsae",NA,"Scottotympana huibregtsae","Boer",1991
+6414,"species",6411,"Cicadettinae","Chlorocystini","Scottotympana","sahebdivanii",NA,"Scottotympana sahebdivanii","Boer",1991
+6415,"genus",6137,"Cicadettinae","Chlorocystini","Thaumastopsaltria",NA,NA,"Thaumastopsaltria","Kirkaldy",1900
+6421,"species",6415,"Cicadettinae","Chlorocystini","Thaumastopsaltria","adipata",NA,"Thaumastopsaltria adipata","Stål",1863
+6422,"species",6415,"Cicadettinae","Chlorocystini","Thaumastopsaltria","globosa",NA,"Thaumastopsaltria globosa","Distant",1897
+6424,"species",6415,"Cicadettinae","Chlorocystini","Thaumastopsaltria","lanceola",NA,"Thaumastopsaltria lanceola","Boer",1992
+6425,"species",6415,"Cicadettinae","Chlorocystini","Thaumastopsaltria","pneumatica",NA,"Thaumastopsaltria pneumatica","Boer",1992
+6426,"species",6415,"Cicadettinae","Chlorocystini","Thaumastopsaltria","sarissa",NA,"Thaumastopsaltria sarissa","Boer",1992
+6427,"species",6415,"Cicadettinae","Chlorocystini","Thaumastopsaltria","sicula",NA,"Thaumastopsaltria sicula","Boer",1992
+6428,"species",6415,"Cicadettinae","Chlorocystini","Thaumastopsaltria","smithersi",NA,"Thaumastopsaltria smithersi","Moulds",2012
+6429,"species",6415,"Cicadettinae","Chlorocystini","Thaumastopsaltria","spelunca",NA,"Thaumastopsaltria spelunca","Boer",1992
+6430,"genus",6137,"Cicadettinae","Chlorocystini","Venustria",NA,NA,"Venustria","Goding & Froggatt",1904
+6432,"species",6430,"Cicadettinae","Chlorocystini","Venustria","superba",NA,"Venustria superba","Goding & Froggatt",1904
+8355,"tribe",5975,"Cicadettinae","Cicadatrini","Cicadatrini",NA,NA,"Cicadatrini","Distant",1905
+8362,"genus",8355,"Cicadettinae","Cicadatrini","Bijaurana",NA,NA,"Bijaurana","Distant",1912
+8363,"species",8362,"Cicadettinae","Cicadatrini","Bijaurana","sita",NA,"Bijaurana sita","Distant",1912
+8364,"species",8362,"Cicadettinae","Cicadatrini","Bijaurana","typica",NA,"Bijaurana typica","Distant",1912
+8365,"genus",8355,"Cicadettinae","Cicadatrini","Chloropsalta",NA,NA,"Chloropsalta","Haupt",1920
+8368,"species",8365,"Cicadettinae","Cicadatrini","Chloropsalta","ochreata",NA,"Chloropsalta ochreata","Melichar",1902
+8369,"species",8365,"Cicadettinae","Cicadatrini","Chloropsalta","smaragdula",NA,"Chloropsalta smaragdula","Haupt",1920
+8370,"species",8365,"Cicadettinae","Cicadatrini","Chloropsalta","viridiflava",NA,"Chloropsalta viridiflava","Distant",1914
+8371,"genus",8355,"Cicadettinae","Cicadatrini","Cicadatra",NA,NA,"Cicadatra","Kolenati",1857
+8374,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","abdominalis",NA,"Cicadatra abdominalis","Schumacher",1923
+8375,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","acberi",NA,"Cicadatra acberi","Distant",1888
+8376,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","adanai",NA,"Cicadatra adanai","Kartal",1980
+8391,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","anoea",NA,"Cicadatra anoea","Walker",1850
+8393,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","appendiculata",NA,"Cicadatra appendiculata","Linnavuori",1954
+8394,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","ashrafi",NA,"Cicadatra ashrafi","Ahmed, Sanborn & Akhter",2013
+8395,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","atra",NA,"Cicadatra atra","Olivier",1791
+8415,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","barbodi",NA,"Cicadatra barbodi","Mozaffarian & Sanborn",2013
+8416,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","bistunensis",NA,"Cicadatra bistunensis","Mozaffarian & Sanborn",2010
+8417,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","erkowitensis",NA,"Cicadatra erkowitensis","Linnavuori",1973
+8418,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","flavicollis",NA,"Cicadatra flavicollis","Horváth",1911
+8420,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","genoina",NA,"Cicadatra genoina","Dlabola",1979
+8421,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","gingat",NA,"Cicadatra gingat","China",1926
+8381,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","glycyrrhizae",NA,"Cicadatra glycyrrhizae","Kolenati",1857
+8422,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","gregoryi",NA,"Cicadatra gregoryi","China",1925
+8423,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","hagenica",NA,"Cicadatra hagenica","Dlabola",1987
+8426,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","hei",NA,"Cicadatra hei","Wang, He & Wei",2017
+8427,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","hyalina",NA,"Cicadatra hyalina","Fabricius",1798
+8448,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","icari",NA,"Cicadatra icari","Simões, Sanborn & Quartau",2013
+8449,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","inconspicua",NA,"Cicadatra inconspicua","Distant",1912
+8450,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","karachiensis",NA,"Cicadatra karachiensis","Ahmed, Sanborn & Hill",2010
+8451,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","karpathosensis",NA,"Cicadatra karpathosensis","Simões, Sanborn & Quartau",2013
+8452,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","kermanica",NA,"Cicadatra kermanica","Dlabola",1970
+8453,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","longipennis",NA,"Cicadatra longipennis","Schumacher",1923
+8454,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","lorestanica",NA,"Cicadatra lorestanica","Mozaffarian & Sanborn",2010
+8456,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","mirzayansi",NA,"Cicadatra mirzayansi","Dlabola",1981
+8458,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","naja",NA,"Cicadatra naja","Dlabola",1979
+8459,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","pallasi",NA,"Cicadatra pallasi","Schumacher",1923
+8461,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","pazukii",NA,"Cicadatra pazukii","Mozaffarian & Sanborn",2015
+8462,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","persica",NA,"Cicadatra persica","Kirkaldy",1909
+8464,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","platyptera",NA,"Cicadatra platyptera","Fieber",1876
+8471,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","raja",NA,"Cicadatra raja","Distant",1906
+8472,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","ramanensis",NA,"Cicadatra ramanensis","Linnavuori",1962
+8474,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","reinhardi",NA,"Cicadatra reinhardi","Kartal",1980
+8476,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","sankara",NA,"Cicadatra sankara","Distant",1904
+8478,"genus",8371,"Cicadettinae","Cicadatrini","†",NA,NA,"†","Cicadatra serresi (Meunier",1915
+8479,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","shaluensis",NA,"Cicadatra shaluensis","China",1925
+8480,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","shapur",NA,"Cicadatra shapur","Dlabola",1981
+8481,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","tandojamensis",NA,"Cicadatra tandojamensis","Ahmed, Sanborn & Akhter",2013
+8482,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","tenebrosa",NA,"Cicadatra tenebrosa","Fieber",1876
+8484,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","vulcania",NA,"Cicadatra vulcania","Dlabola & Heller",1962
+8485,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","walkeri",NA,"Cicadatra walkeri","Metcalf",1963
+8487,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","xantes",NA,"Cicadatra xantes","Walker",1850
+8491,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","zahedanica",NA,"Cicadatra zahedanica","Dlabola",1970
+8492,"species",8371,"Cicadettinae","Cicadatrini","Cicadatra","ziaratica",NA,"Cicadatra ziaratica","Ahmed, Sanborn & Akhter",2012
+8493,"genus",8355,"Cicadettinae","Cicadatrini","Emathia",NA,NA,"Emathia","Stål",1866
+8495,"species",8493,"Cicadettinae","Cicadatrini","Emathia","aegrota",NA,"Emathia aegrota","Stål",1866
+8497,"species",8493,"Cicadettinae","Cicadatrini","Emathia","takensis",NA,"Emathia takensis","Boulard",2006
+8499,"genus",8355,"Cicadettinae","Cicadatrini","Klapperichicen",NA,NA,"Klapperichicen","Dlabola",1957
+8502,"species",8499,"Cicadettinae","Cicadatrini","Klapperichicen","acoloratus",NA,"Klapperichicen acoloratus","Dlabola",1960
+8504,"species",8499,"Cicadettinae","Cicadatrini","Klapperichicen","dubius",NA,"Klapperichicen dubius","Jacobi",1927
+8505,"species",8499,"Cicadettinae","Cicadatrini","Klapperichicen","turbatus",NA,"Klapperichicen turbatus","Melichar",1902
+8506,"species",8499,"Cicadettinae","Cicadatrini","Klapperichicen","viridissimus",NA,"Klapperichicen viridissimus","Walker",1858
+8507,"genus",8355,"Cicadettinae","Cicadatrini","Mogannia",NA,NA,"Mogannia","Amyot & Audinet-Serville",1843
+8519,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","aliena",NA,"Mogannia aliena","Distant",1920
+8520,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","aurea",NA,"Mogannia aurea","Fraser",1942
+8521,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","basalis",NA,"Mogannia basalis","Matsumura",1913
+8524,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","binotata",NA,"Mogannia binotata","Distant",1906
+8526,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","caesar",NA,"Mogannia caesar","Jacobi",1902
+8529,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","conica",NA,"Mogannia conica","Germar",1830
+8541,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","cyanea",NA,"Mogannia cyanea","Walker",1858
+8553,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","doriae",NA,"Mogannia doriae","Distant",1888
+8554,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","effecta",NA,"Mogannia effecta","Distant",1892
+8559,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","flammifera",NA,"Mogannia flammifera","Moulton",1923
+8560,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","formosana",NA,"Mogannia formosana","Matsumura",1907
+8583,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","funebris",NA,"Mogannia funebris","Stål",1865
+8585,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","funettae",NA,"Mogannia funettae","Boulard",2008
+8586,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","grelaka",NA,"Mogannia grelaka","Moulton",1923
+8587,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","guangdongensis",NA,"Mogannia guangdongensis","Chen, Yang & Wei",2012
+8588,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","hainana",NA,"Mogannia hainana","Shen, Lei & Yang",2006
+8589,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","hebes",NA,"Mogannia hebes","Walker",1858
+8609,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","horsfieldi",NA,"Mogannia horsfieldi","Distant",1905
+8612,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","malayana",NA,"Mogannia malayana","Moulton",1923
+8613,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","mandarina",NA,"Mogannia mandarina","Distant",1905
+8616,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","minuta",NA,"Mogannia minuta","Matsumura",1907
+8620,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","montana",NA,"Mogannia montana","Moulton",1923
+8621,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","moultoni",NA,"Mogannia moultoni","Distant",1910
+616105,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","nasalis",NA,"Mogannia nasalis","White",1844
+8633,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","obliqua",NA,"Mogannia obliqua","Walker",1858
+8635,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","paae",NA,"Mogannia paae","Boulard",2009
+8636,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","rosea",NA,"Mogannia rosea","Moulton",1923
+8637,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","ruiliensis",NA,"Mogannia ruiliensis","Chen, Yang & Wei",2012
+8638,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","saucia",NA,"Mogannia saucia","Noualhier",1896
+8642,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","sesioides",NA,"Mogannia sesioides","Walker",1868
+8644,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","sumatrana",NA,"Mogannia sumatrana","Moulton",1923
+742273,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","tenebrosa",NA,"Mogannia tenebrosa","Lee & Marshall",2023
+8645,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","tumdactylina",NA,"Mogannia tumdactylina","Chen, Yang & Wei",2012
+8646,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","unicolor",NA,"Mogannia unicolor","Walker",1852
+8647,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","venustissima",NA,"Mogannia venustissima","Stål",1865
+8651,"species",8507,"Cicadettinae","Cicadatrini","Mogannia","viridis",NA,"Mogannia viridis","Signoret",1847
+8664,"genus",8355,"Cicadettinae","Cicadatrini","Psalmocharias",NA,NA,"Psalmocharias","Kirkaldy",1908
+8667,"species",8664,"Cicadettinae","Cicadatrini","Psalmocharias","akesensis",NA,"Psalmocharias akesensis","Wang, He & Wei",2017
+8668,"species",8664,"Cicadettinae","Cicadatrini","Psalmocharias","balochii",NA,"Psalmocharias balochii","Ahmed & Sanborn",2010
+8669,"species",8664,"Cicadettinae","Cicadatrini","Psalmocharias","cataphracticus",NA,"Psalmocharias cataphracticus","Popov",1985
+8670,"species",8664,"Cicadettinae","Cicadatrini","Psalmocharias","chitralensis",NA,"Psalmocharias chitralensis","Ahmed & Sanborn",2010
+8671,"species",8664,"Cicadettinae","Cicadatrini","Psalmocharias","flavus",NA,"Psalmocharias flavus","Dlabola",1970
+8672,"species",8664,"Cicadettinae","Cicadatrini","Psalmocharias","gizarensis",NA,"Psalmocharias gizarensis","Ahmed & Sanborn",2010
+8673,"species",8664,"Cicadettinae","Cicadatrini","Psalmocharias","japokensis",NA,"Psalmocharias japokensis","Ahmed & Sanborn",2010
+8674,"species",8664,"Cicadettinae","Cicadatrini","Psalmocharias","paliuri",NA,"Psalmocharias paliuri","Kolenati",1857
+8679,"species",8664,"Cicadettinae","Cicadatrini","Psalmocharias","plagifer",NA,"Psalmocharias plagifer","Schumacher",1922
+8680,"species",8664,"Cicadettinae","Cicadatrini","Psalmocharias","querulus",NA,"Psalmocharias querulus","Pallas",1773
+8688,"species",8664,"Cicadettinae","Cicadatrini","Psalmocharias","rugipennis",NA,"Psalmocharias rugipennis","Walker",1858
+8690,"genus",8355,"Cicadettinae","Cicadatrini","Shaoshia",NA,NA,"Shaoshia","Wei, Ahmed & Rizvi",2010
+8692,"species",8690,"Cicadettinae","Cicadatrini","Shaoshia","zhangi",NA,"Shaoshia zhangi","Wei, Ahmed & Rizvi",2010
+8693,"genus",8355,"Cicadettinae","Cicadatrini","Taungia",NA,NA,"Taungia","Ollenbach",1928
+8694,"species",8693,"Cicadettinae","Cicadatrini","Taungia","abnormis",NA,"Taungia abnormis","Ollenbach",1928
+8695,"species",8693,"Cicadettinae","Cicadatrini","Taungia","albantennae",NA,"Taungia albantennae","Boulard",2009
+8696,"genus",8355,"Cicadettinae","Cicadatrini","Triglena",NA,NA,"Triglena","Fieber",1875
+8698,"species",8696,"Cicadettinae","Cicadatrini","Triglena","virescens",NA,"Triglena virescens","Fieber",1876
+8701,"genus",8355,"Cicadettinae","Cicadatrini","Vagitanus",NA,NA,"Vagitanus","Distant",1918
+8704,"species",8701,"Cicadettinae","Cicadatrini","Vagitanus","guangxiensis",NA,"Vagitanus guangxiensis","Chou & Wang",1993
+8705,"species",8701,"Cicadettinae","Cicadatrini","Vagitanus","longidactyla",NA,"Vagitanus longidactyla","Yang & Wei",2013
+8706,"species",8701,"Cicadettinae","Cicadatrini","Vagitanus","luangensis",NA,"Vagitanus luangensis","Distant",1918
+8707,"species",8701,"Cicadettinae","Cicadatrini","Vagitanus","metulata",NA,"Vagitanus metulata","Chou & Lei",1993
+8708,"species",8701,"Cicadettinae","Cicadatrini","Vagitanus","terminalis",NA,"Vagitanus terminalis","Matsumura",1913
+1042573,"species",8701,"Cicadettinae","Cicadatrini","Vagitanus","venetus",NA,"Vagitanus venetus","Emery & Lee",2024
+8713,"species",8701,"Cicadettinae","Cicadatrini","Vagitanus","vientianensis",NA,"Vagitanus vientianensis","Distant",1918
+8714,"species",8701,"Cicadettinae","Cicadatrini","Vagitanus","virescens",NA,"Vagitanus virescens","Kato",1926
+6434,"tribe",5975,"Cicadettinae","Cicadettini","Cicadettini",NA,NA,"Cicadettini","Buckton",1890
+6440,"genus",6434,"Cicadettinae","Cicadettini","Adelia",NA,NA,"Adelia","Moulds",2012
+6441,"species",6440,"Cicadettinae","Cicadettini","Adelia","borealis",NA,"Adelia borealis","Goding & Froggatt",1904
+6442,"genus",6434,"Cicadettinae","Cicadettini","Aestuansella",NA,NA,"Aestuansella","Boulard",1981
+6443,"species",6442,"Cicadettinae","Cicadettini","Aestuansella","aestuans",NA,"Aestuansella aestuans","Fabricius",1794
+6447,"species",6442,"Cicadettinae","Cicadettini","Aestuansella","dogueti",NA,"Aestuansella dogueti","Boulard",1981
+615246,"genus",6434,"Cicadettinae","Cicadettini","Afromelampsalta",NA,NA,"Afromelampsalta","Sanborn & Villet",2020
+7098,"species",615246,"Cicadettinae","Cicadettini","Afromelampsalta","aethiopica",NA,"Afromelampsalta aethiopica","Distant",1905
+7101,"species",615246,"Cicadettinae","Cicadettini","Afromelampsalta","cadisia",NA,"Afromelampsalta cadisia","Walker",1850
+7113,"species",615246,"Cicadettinae","Cicadettini","Afromelampsalta","leucoptera",NA,"Afromelampsalta leucoptera","Germar",1830
+6587,"species",615246,"Cicadettinae","Cicadettini","Afromelampsalta","limitata",NA,"Afromelampsalta limitata","Walker",1852
+550002,"species",615246,"Cicadettinae","Cicadettini","Afromelampsalta","luteofasciata",NA,"Afromelampsalta luteofasciata","Sanborn & Villet",2020
+7318,"species",615246,"Cicadettinae","Cicadettini","Afromelampsalta","mimica",NA,"Afromelampsalta mimica","Distant",1907
+6448,"genus",6434,"Cicadettinae","Cicadettini","Amphipsalta",NA,NA,"Amphipsalta","Flemming",1969
+6449,"species",6448,"Cicadettinae","Cicadettini","Amphipsalta","cingulata",NA,"Amphipsalta cingulata","Fabricius",1775
+6457,"species",6448,"Cicadettinae","Cicadettini","Amphipsalta","strepitans",NA,"Amphipsalta strepitans","Kirkaldy",1909
+6460,"species",6448,"Cicadettinae","Cicadettini","Amphipsalta","zelandica",NA,"Amphipsalta zelandica","Boisduval",1835
+6463,"genus",6434,"Cicadettinae","Cicadettini","Atrapsalta",NA,NA,"Atrapsalta","Owen & Moulds",2016
+1066000,"species",6463,"Cicadettinae","Cicadettini","Atrapsalta","audax",NA,"Atrapsalta audax","Popple & Stolarski",2024
+6465,"species",6463,"Cicadettinae","Cicadettini","Atrapsalta","collina",NA,"Atrapsalta collina","Ewart",1989
+6466,"species",6463,"Cicadettinae","Cicadettini","Atrapsalta","corticina",NA,"Atrapsalta corticina","Ewart",1989
+6467,"species",6463,"Cicadettinae","Cicadettini","Atrapsalta","dolens",NA,"Atrapsalta dolens","Walker",1850
+6469,"species",6463,"Cicadettinae","Cicadettini","Atrapsalta","emmotti",NA,"Atrapsalta emmotti","Owen & Moulds",2016
+6471,"species",6463,"Cicadettinae","Cicadettini","Atrapsalta","encaustica",NA,"Atrapsalta encaustica","Germar",1834
+6475,"species",6463,"Cicadettinae","Cicadettini","Atrapsalta","furcilla",NA,"Atrapsalta furcilla","Owen & Moulds",2016
+6477,"species",6463,"Cicadettinae","Cicadettini","Atrapsalta","fuscata",NA,"Atrapsalta fuscata","Ewart",1989
+6480,"species",6463,"Cicadettinae","Cicadettini","Atrapsalta","siccana",NA,"Atrapsalta siccana","Ewart",1989
+6481,"species",6463,"Cicadettinae","Cicadettini","Atrapsalta","vinea",NA,"Atrapsalta vinea","Owen & Moulds",2016
+6483,"genus",6434,"Cicadettinae","Cicadettini","Auscala",NA,NA,"Auscala","Moulds",2012
+599009,"species",6483,"Cicadettinae","Cicadettini","Auscala","flammea",NA,"Auscala flammea","Emery, Emery & Hutchinson",2020
+6484,"species",6483,"Cicadettinae","Cicadettini","Auscala","spinosa",NA,"Auscala spinosa","Goding & Froggatt",1904
+1127899,"genus",6434,"Cicadettinae","Cicadettini","Austropunia",NA,NA,"Austropunia","Moulds & Marshall",2025
+1127900,"species",1127899,"Cicadettinae","Cicadettini","Austropunia","cheloides",NA,"Austropunia cheloides","Moulds & Marshall",2025
+6487,"genus",6434,"Cicadettinae","Cicadettini","Auta",NA,NA,"Auta","Distant",1897
+6488,"species",6487,"Cicadettinae","Cicadettini","Auta","daymanensis",NA,"Auta daymanensis","Boer",1999
+6489,"species",6487,"Cicadettinae","Cicadettini","Auta","insignis",NA,"Auta insignis","Distant",1897
+6490,"species",6487,"Cicadettinae","Cicadettini","Auta","tapinensis",NA,"Auta tapinensis","Boer",1999
+7661,"genus",6434,"Cicadettinae","Cicadettini","Berberigetta",NA,NA,"Berberigetta","Costa, Nunes, Marabuto, Mendes & Simões",2017
+7662,"species",7661,"Cicadettinae","Cicadettini","Berberigetta","dimelodica",NA,"Berberigetta dimelodica","Costa, Nunes, Marabuto, Mendes & Simões",2017
+6491,"genus",6434,"Cicadettinae","Cicadettini","Birrima",NA,NA,"Birrima","Distant",1906
+6492,"species",6491,"Cicadettinae","Cicadettini","Birrima","castanea",NA,"Birrima castanea","Goding & Froggatt",1904
+6496,"species",6491,"Cicadettinae","Cicadettini","Birrima","varians",NA,"Birrima varians","Germar",1834
+7663,"genus",6434,"Cicadettinae","Cicadettini","Bispinalta",NA,NA,"Bispinalta","Delorme",2017
+7664,"species",7663,"Cicadettinae","Cicadettini","Bispinalta","caledonica",NA,"Bispinalta caledonica","Delorme",2017
+1127901,"genus",6434,"Cicadettinae","Cicadettini","Brevia",NA,NA,"Brevia","Moulds & Marshall",2025
+1127902,"species",1127901,"Cicadettinae","Cicadettini","Brevia","bullula",NA,"Brevia bullula","Moulds & Marshall",2025
+6497,"genus",6434,"Cicadettinae","Cicadettini","Buyisa",NA,NA,"Buyisa","Distant",1907
+602921,"species",6497,"Cicadettinae","Cicadettini","Buyisa","eccaensis",NA,"Buyisa eccaensis","Sanborn & Villet",2021
+6498,"species",6497,"Cicadettinae","Cicadettini","Buyisa","umtatae",NA,"Buyisa umtatae","Distant",1907
+6499,"genus",6434,"Cicadettinae","Cicadettini","Caledopsalta",NA,NA,"Caledopsalta","Delorme",2017
+6500,"species",6499,"Cicadettinae","Cicadettini","Caledopsalta","canteminvantum",NA,"Caledopsalta canteminvantum","Delorme",2017
+6501,"species",6499,"Cicadettinae","Cicadettini","Caledopsalta","garrula",NA,"Caledopsalta garrula","Delorme",2017
+6502,"species",6499,"Cicadettinae","Cicadettini","Caledopsalta","johanae",NA,"Caledopsalta johanae","Boulard",1993
+6503,"species",6499,"Cicadettinae","Cicadettini","Caledopsalta","judithae",NA,"Caledopsalta judithae","Boulard",1997
+6505,"species",6499,"Cicadettinae","Cicadettini","Caledopsalta","ouitchamboensis",NA,"Caledopsalta ouitchamboensis","Delorme",2017
+6506,"species",6499,"Cicadettinae","Cicadettini","Caledopsalta","sciaphila",NA,"Caledopsalta sciaphila","Delorme",2017
+6507,"genus",6434,"Cicadettinae","Cicadettini","Caliginopsalta",NA,NA,"Caliginopsalta","Ewart",2005
+6508,"species",6507,"Cicadettinae","Cicadettini","Caliginopsalta","percola",NA,"Caliginopsalta percola","Ewart",2005
+659845,"genus",6434,"Cicadettinae","Cicadettini","Calipsalta",NA,NA,"Calipsalta","Moulds & Marshall",2022
+659848,"species",659845,"Cicadettinae","Cicadettini","Calipsalta","brunnea",NA,"Calipsalta brunnea","Moulds & Marshall",2022
+659846,"species",659845,"Cicadettinae","Cicadettini","Calipsalta","fumosa",NA,"Calipsalta fumosa","Moulds & Marshall",2022
+659847,"species",659845,"Cicadettinae","Cicadettini","Calipsalta","viridans",NA,"Calipsalta viridans","Moulds & Marshall",2022
+6509,"genus",6434,"Cicadettinae","Cicadettini","Chelapsalta",NA,NA,"Chelapsalta","Moulds",2012
+6510,"species",6509,"Cicadettinae","Cicadettini","Chelapsalta","myoporae",NA,"Chelapsalta myoporae","Ewart, Popple & Marshall",2015
+6511,"species",6509,"Cicadettinae","Cicadettini","Chelapsalta","puer",NA,"Chelapsalta puer","Walker",1850
+6513,"genus",6434,"Cicadettinae","Cicadettini","Cicadetta",NA,NA,"Cicadetta","Kolenati",1857
+6520,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","abscondita",NA,"Cicadetta abscondita","Lee",2008
+6523,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","afghanistanica",NA,"Cicadetta afghanistanica","Dlabola",1964
+6524,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","albipennis",NA,"Cicadetta albipennis","Fieber",1876
+6527,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","anapaistica",NA,"Cicadetta anapaistica","Hertach",2011
+6528,"subspecies",6527,"Cicadettinae","Cicadettini","Cicadetta","anapaistica","anapaistica","Cicadetta anapaistica anapaistica","Hertach",2011
+6529,"subspecies",6527,"Cicadettinae","Cicadettini","Cicadetta","anapaistica","lucana","Cicadetta anapaistica lucana","Hertach, Trilar, Wade, Simon & Nagel",2015
+6530,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","brevipennis",NA,"Cicadetta brevipennis","Fieber",1876
+6531,"subspecies",6530,"Cicadettinae","Cicadettini","Cicadetta","brevipennis","brevipennis","Cicadetta brevipennis brevipennis","Fieber",1876
+6536,"subspecies",6530,"Cicadettinae","Cicadettini","Cicadetta","brevipennis","hippolaidica","Cicadetta brevipennis hippolaidica","Hertach",2016
+6537,"subspecies",6530,"Cicadettinae","Cicadettini","Cicadetta","brevipennis","litoralis","Cicadetta brevipennis litoralis","Puissant & Hertach",2016
+6538,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","cantilatrix",NA,"Cicadetta cantilatrix","Sueur & Puissant",2007
+6541,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","cerdaniensis",NA,"Cicadetta cerdaniensis","Puissant & Boulard",2000
+6545,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","concinna",NA,"Cicadetta concinna","Germar",1821
+6546,"subspecies",6545,"Cicadettinae","Cicadettini","Cicadetta","concinna","arachnocepta","Cicadetta concinna arachnocepta","Gogala, Trilar & Krpač",2014
+6547,"subspecies",6545,"Cicadettinae","Cicadettini","Cicadetta","concinna","concinna","Cicadetta concinna concinna","Germar",1821
+6554,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","diminuta",NA,"Cicadetta diminuta","Horváth",1907
+6555,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","dirfica",NA,"Cicadetta dirfica","Gogala, Trilar & Drosopoulos",2011
+1408755,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","euskara",NA,"Cicadetta euskara","Hertach, Gurcel & Puissant",2026
+6556,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","fangoana",NA,"Cicadetta fangoana","Boulard",1976
+6561,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","fraseri",NA,"Cicadetta fraseri","China",1938
+6562,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","haematophleps",NA,"Cicadetta haematophleps","Fieber",1876
+6565,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","hageni",NA,"Cicadetta hageni","Fieber",1872
+6569,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","hannekeae",NA,"Cicadetta hannekeae","Gogala, Drosopoulos & Trilar",2008
+6571,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","hodoharai",NA,"Cicadetta hodoharai","Kato",1940
+1408754,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","iberica",NA,"Cicadetta iberica","Hertach, Gurcel & Puissant",2026
+6572,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","inglisi",NA,"Cicadetta inglisi","Ollenbach",1928
+6573,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","inserta",NA,"Cicadetta inserta","Horváth",1911
+6574,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","intermedia",NA,"Cicadetta intermedia","Ollenbach",1928
+6575,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","juncta",NA,"Cicadetta juncta","Walker",1850
+1091751,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","karandila",NA,"Cicadetta karandila","Trilar, Gjonov & Gogala",2025
+6576,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","kissavi",NA,"Cicadetta kissavi","Gogala, Drosopoulos & Trilar",2009
+6577,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","kollari",NA,"Cicadetta kollari","Fieber",1876
+6586,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","laevifrons",NA,"Cicadetta laevifrons","Stål",1870
+6589,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","macedonica",NA,"Cicadetta macedonica","Schedl",1999
+6590,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","mediterranea",NA,"Cicadetta mediterranea","Fieber",1876
+6593,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","minuta",NA,"Cicadetta minuta","Ollenbach",1928
+6595,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","montana",NA,"Cicadetta montana","Scopoli",1772
+6618,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","nigropilosa",NA,"Cicadetta nigropilosa","Logvinenko",1976
+6619,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","olympica",NA,"Cicadetta olympica","Gogala, Drosopoulos & Trilar",2009
+6620,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","pellosoma",NA,"Cicadetta pellosoma","Uhler",1861
+6626,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","petrophila",NA,"Cicadetta petrophila","Popov",1985
+6627,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","petryi",NA,"Cicadetta petryi","Schumacher",1924
+6628,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","pieli",NA,"Cicadetta pieli","Kato",1940
+6630,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","pilosa",NA,"Cicadetta pilosa","Horváth",1901
+6638,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","sibillae",NA,"Cicadetta sibillae","Hertach & Trilar",2015
+6641,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","transylvanica",NA,"Cicadetta transylvanica","Fieber",1876
+6649,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","tumidifrons",NA,"Cicadetta tumidifrons","Horváth",1911
+6650,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","tunisiaca",NA,"Cicadetta tunisiaca","Karsch",1890
+6651,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","ventricosa",NA,"Cicadetta ventricosa","Stål",1866
+6654,"species",6513,"Cicadettinae","Cicadettini","Cicadetta","walkerella",NA,"Cicadetta walkerella","Kirkaldy",1909
+7665,"genus",6434,"Cicadettinae","Cicadettini","Cicadettana",NA,NA,"Cicadettana","Marshall & Hil",2017
+7666,"species",7665,"Cicadettinae","Cicadettini","Cicadettana","calliope",NA,"Cicadettana calliope","Walker",1850
+616083,"subspecies",7666,"Cicadettinae","Cicadettini","Cicadettana","calliope","calliope","Cicadettana calliope calliope","Walker",1850
+7669,"subspecies",7666,"Cicadettinae","Cicadettini","Cicadettana","calliope","floridensis","Cicadettana calliope floridensis","Davis",1920
+7670,"species",7665,"Cicadettinae","Cicadettini","Cicadettana","camerona",NA,"Cicadettana camerona","Davis",1920
+7671,"species",7665,"Cicadettinae","Cicadettini","Cicadettana","kansa",NA,"Cicadettana kansa","Davis",1919
+7673,"species",7665,"Cicadettinae","Cicadettini","Cicadettana","ramosi",NA,"Cicadettana ramosi","Sanborn",2009
+7675,"species",7665,"Cicadettinae","Cicadettini","Cicadettana","texana",NA,"Cicadettana texana","Davis",1936
+6657,"genus",6434,"Cicadettinae","Cicadettini","Clinata",NA,NA,"Clinata","Moulds",2012
+6658,"species",6657,"Cicadettinae","Cicadettini","Clinata","nodicosta",NA,"Clinata nodicosta","Goding & Froggatt",1904
+6659,"genus",6434,"Cicadettinae","Cicadettini","Clinopsalta",NA,NA,"Clinopsalta","Moulds",2012
+6660,"species",6659,"Cicadettinae","Cicadettini","Clinopsalta","adelaida",NA,"Clinopsalta adelaida","Ashton",1914
+6661,"species",6659,"Cicadettinae","Cicadettini","Clinopsalta","autumna",NA,"Clinopsalta autumna","Popple & Emery",2017
+6662,"species",6659,"Cicadettinae","Cicadettini","Clinopsalta","semilunata",NA,"Clinopsalta semilunata","Popple & Emery",2017
+6663,"species",6659,"Cicadettinae","Cicadettini","Clinopsalta","tigris",NA,"Clinopsalta tigris","Ashton",1914
+1127906,"genus",6434,"Cicadettinae","Cicadettini","Cognadanga",NA,NA,"Cognadanga","Moulds & Marshall",2025
+1127907,"species",1127906,"Cicadettinae","Cicadettini","Cognadanga","capricornica",NA,"Cognadanga capricornica","Moulds & Marshall",2025
+1127908,"species",1127906,"Cicadettinae","Cicadettini","Cognadanga","isos",NA,"Cognadanga isos","Moulds & Marshall",2025
+6664,"genus",6434,"Cicadettinae","Cicadettini","Crotopsalta",NA,NA,"Crotopsalta","Ewart",2005
+6665,"species",6664,"Cicadettinae","Cicadettini","Crotopsalta","fronsecetes",NA,"Crotopsalta fronsecetes","Ewart",2005
+6666,"species",6664,"Cicadettinae","Cicadettini","Crotopsalta","leptotigris",NA,"Crotopsalta leptotigris","Ewart",2009
+6667,"species",6664,"Cicadettinae","Cicadettini","Crotopsalta","plexis",NA,"Crotopsalta plexis","Ewart",2005
+6668,"species",6664,"Cicadettinae","Cicadettini","Crotopsalta","poaecetes",NA,"Crotopsalta poaecetes","Ewart",2005
+6669,"species",6664,"Cicadettinae","Cicadettini","Crotopsalta","strenula",NA,"Crotopsalta strenula","Ewart",2005
+6670,"genus",6434,"Cicadettinae","Cicadettini","Curvicicada",NA,NA,"Curvicicada","Chou & Lu",1997
+6673,"species",6670,"Cicadettinae","Cicadettini","Curvicicada","xinjiangensis",NA,"Curvicicada xinjiangensis","Chou & Lu",1997
+6675,"genus",6434,"Cicadettinae","Cicadettini","Diemeniana",NA,NA,"Diemeniana","Distant",1906
+6677,"species",6675,"Cicadettinae","Cicadettini","Diemeniana","cincta",NA,"Diemeniana cincta","Fabricius",1803
+6679,"species",6675,"Cicadettinae","Cicadettini","Diemeniana","euronotiana",NA,"Diemeniana euronotiana","Kirkaldy",1909
+6682,"species",6675,"Cicadettinae","Cicadettini","Diemeniana","frenchi",NA,"Diemeniana frenchi","Distant",1907
+6685,"species",6675,"Cicadettinae","Cicadettini","Diemeniana","hirsuta",NA,"Diemeniana hirsuta","Goding & Froggatt",1904
+6687,"species",6675,"Cicadettinae","Cicadettini","Diemeniana","neboissi",NA,"Diemeniana neboissi","Burns",1958
+6688,"genus",6434,"Cicadettinae","Cicadettini","Dimissalna",NA,NA,"Dimissalna","Boulard",2007
+6689,"species",6688,"Cicadettinae","Cicadettini","Dimissalna","dimissa",NA,"Dimissalna dimissa","Hagen",1856
+6692,"genus",6434,"Cicadettinae","Cicadettini","Dipsopsalta",NA,NA,"Dipsopsalta","Moulds",2012
+6693,"species",6692,"Cicadettinae","Cicadettini","Dipsopsalta","signata",NA,"Dipsopsalta signata","Distant",1914
+6695,"genus",6434,"Cicadettinae","Cicadettini","Drymopsalta",NA,NA,"Drymopsalta","Ewart",2005
+6696,"species",6695,"Cicadettinae","Cicadettini","Drymopsalta","acrotela",NA,"Drymopsalta acrotela","Ewart & Popple",2013
+6697,"species",6695,"Cicadettinae","Cicadettini","Drymopsalta","crepitum",NA,"Drymopsalta crepitum","Ewart",2005
+6698,"species",6695,"Cicadettinae","Cicadettini","Drymopsalta","dameli",NA,"Drymopsalta dameli","Distant",1905
+6701,"species",6695,"Cicadettinae","Cicadettini","Drymopsalta","hobsoni",NA,"Drymopsalta hobsoni","Ewart & Popple",2013
+6702,"species",6695,"Cicadettinae","Cicadettini","Drymopsalta","wallumi",NA,"Drymopsalta wallumi","Ewart & Popple",2013
+6703,"genus",6434,"Cicadettinae","Cicadettini","Erempsalta",NA,NA,"Erempsalta","Moulds",2012
+6704,"species",6703,"Cicadettinae","Cicadettini","Erempsalta","hermansburgensis",NA,"Erempsalta hermansburgensis","Distant",1907
+6706,"genus",6434,"Cicadettinae","Cicadettini","Euboeana",NA,NA,"Euboeana","Gogala, Trilar & Drosopoulos",2011
+6707,"species",6706,"Cicadettinae","Cicadettini","Euboeana","castaneivaga",NA,"Euboeana castaneivaga","Gogala, Trilar & Drosopoulos",2011
+6708,"genus",6434,"Cicadettinae","Cicadettini","Euryphara",NA,NA,"Euryphara","Horváth",1912
+6709,"species",6708,"Cicadettinae","Cicadettini","Euryphara","cantans",NA,"Euryphara cantans","Fabricius",1794
+6711,"species",6708,"Cicadettinae","Cicadettini","Euryphara","contentei",NA,"Euryphara contentei","Boulard",1982
+6714,"species",6708,"Cicadettinae","Cicadettini","Euryphara","euphorbiae",NA,"Euryphara euphorbiae","Fieber",1876
+6716,"species",6708,"Cicadettinae","Cicadettini","Euryphara","ribauti",NA,"Euryphara ribauti","Boulard",1982
+6717,"species",6708,"Cicadettinae","Cicadettini","Euryphara","undulata",NA,"Euryphara undulata","Waltl",1837
+6719,"species",6708,"Cicadettinae","Cicadettini","Euryphara","virens",NA,"Euryphara virens","Herrich-Schäffer",1835
+6720,"genus",6434,"Cicadettinae","Cicadettini","Ewartia",NA,NA,"Ewartia","Moulds",2012
+659844,"species",6720,"Cicadettinae","Cicadettini","Ewartia","adusta",NA,"Ewartia adusta","Moulds & Marshall",2022
+6721,"species",6720,"Cicadettinae","Cicadettini","Ewartia","brevis",NA,"Ewartia brevis","Ashton",1912
+6722,"species",6720,"Cicadettinae","Cicadettini","Ewartia","carina",NA,"Ewartia carina","Popple",2017
+6723,"species",6720,"Cicadettinae","Cicadettini","Ewartia","cuensis",NA,"Ewartia cuensis","Distant",1913
+6725,"species",6720,"Cicadettinae","Cicadettini","Ewartia","etesia",NA,"Ewartia etesia","Popple",2017
+6726,"species",6720,"Cicadettinae","Cicadettini","Ewartia","lapidosa",NA,"Ewartia lapidosa","Popple",2017
+6727,"species",6720,"Cicadettinae","Cicadettini","Ewartia","oldfieldi",NA,"Ewartia oldfieldi","Distant",1883
+6728,"species",6720,"Cicadettinae","Cicadettini","Ewartia","roberti",NA,"Ewartia roberti","Popple",2017
+6729,"species",6720,"Cicadettinae","Cicadettini","Ewartia","thamna",NA,"Ewartia thamna","Popple",2017
+6730,"genus",6434,"Cicadettinae","Cicadettini","Falcatpsalta",NA,NA,"Falcatpsalta","Owen & Moulds",2016
+6732,"species",6730,"Cicadettinae","Cicadettini","Falcatpsalta","aquila",NA,"Falcatpsalta aquila","Ewart",1989
+6733,"genus",6434,"Cicadettinae","Cicadettini","Fijipsalta",NA,NA,"Fijipsalta","Duffels",1988
+6734,"species",6733,"Cicadettinae","Cicadettini","Fijipsalta","tympanistria",NA,"Fijipsalta tympanistria","Kirkaldy",1907
+6735,"genus",6434,"Cicadettinae","Cicadettini","Frogattoides",NA,NA,"Frogattoides","Distant",1910
+6739,"species",6735,"Cicadettinae","Cicadettini","Frogattoides","pallidus",NA,"Frogattoides pallidus","Ashton",1912
+6740,"species",6735,"Cicadettinae","Cicadettini","Frogattoides","typicus",NA,"Frogattoides typicus","Distant",1910
+6742,"genus",6434,"Cicadettinae","Cicadettini","Gagatopsalta",NA,NA,"Gagatopsalta","Ewart",2005
+6743,"species",6742,"Cicadettinae","Cicadettini","Gagatopsalta","auranti",NA,"Gagatopsalta auranti","Ewart",2005
+6744,"species",6742,"Cicadettinae","Cicadettini","Gagatopsalta","obscura",NA,"Gagatopsalta obscura","Ewart",2005
+6745,"genus",6434,"Cicadettinae","Cicadettini","Galanga",NA,NA,"Galanga","Moulds",2012
+6746,"species",6745,"Cicadettinae","Cicadettini","Galanga","labeculata",NA,"Galanga labeculata","Distant",1892
+6747,"genus",6434,"Cicadettinae","Cicadettini","Gelidea",NA,NA,"Gelidea","Moulds",2012
+6748,"species",6747,"Cicadettinae","Cicadettini","Gelidea","torrida",NA,"Gelidea torrida","Erichson",1842
+7676,"genus",6434,"Cicadettinae","Cicadettini","Germalna",NA,NA,"Germalna","Delorme",2018
+7678,"species",7676,"Cicadettinae","Cicadettini","Germalna","germaini",NA,"Germalna germaini","Distant",1906
+6757,"genus",6434,"Cicadettinae","Cicadettini","Ggomapsalta",NA,NA,"Ggomapsalta","Lee",2009
+6758,"species",6757,"Cicadettinae","Cicadettini","Ggomapsalta","fragilis",NA,"Ggomapsalta fragilis","Lee",2015
+6759,"species",6757,"Cicadettinae","Cicadettini","Ggomapsalta","vernalis",NA,"Ggomapsalta vernalis","Distant",1916
+6760,"genus",6434,"Cicadettinae","Cicadettini","Graminitigrina",NA,NA,"Graminitigrina","Ewart & Marques",2008
+6762,"species",6760,"Cicadettinae","Cicadettini","Graminitigrina","aurora",NA,"Graminitigrina aurora","Ewart, Popple & Hill",2017
+6763,"species",6760,"Cicadettinae","Cicadettini","Graminitigrina","bolloni",NA,"Graminitigrina bolloni","Ewart & Marques",2008
+6764,"species",6760,"Cicadettinae","Cicadettini","Graminitigrina","bowensis",NA,"Graminitigrina bowensis","Ewart & Marques",2008
+6765,"species",6760,"Cicadettinae","Cicadettini","Graminitigrina","carnarvonensis",NA,"Graminitigrina carnarvonensis","Ewart & Marques",2008
+6766,"species",6760,"Cicadettinae","Cicadettini","Graminitigrina","einasleighi",NA,"Graminitigrina einasleighi","Ewart, Popple & Hill",2017
+6767,"species",6760,"Cicadettinae","Cicadettini","Graminitigrina","flindensis",NA,"Graminitigrina flindensis","Ewart, Popple & Hill",2017
+6769,"species",6760,"Cicadettinae","Cicadettini","Graminitigrina","karumbae",NA,"Graminitigrina karumbae","Ewart & Marques",2008
+6770,"species",6760,"Cicadettinae","Cicadettini","Graminitigrina","selwynensis",NA,"Graminitigrina selwynensis","Ewart, Popple & Hill",2017
+6772,"species",6760,"Cicadettinae","Cicadettini","Graminitigrina","triodiae",NA,"Graminitigrina triodiae","Ewart & Marques",2008
+6773,"species",6760,"Cicadettinae","Cicadettini","Graminitigrina","uluruensis",NA,"Graminitigrina uluruensis","Ewart, Popple & Hill",2017
+6774,"genus",6434,"Cicadettinae","Cicadettini","Graptotettix",NA,NA,"Graptotettix","Stål",1866
+6775,"species",6774,"Cicadettinae","Cicadettini","Graptotettix","guttatus",NA,"Graptotettix guttatus","Stål",1866
+6776,"species",6774,"Cicadettinae","Cicadettini","Graptotettix","rubromaculatus",NA,"Graptotettix rubromaculatus","Distant",1905
+6777,"species",6774,"Cicadettinae","Cicadettini","Graptotettix","thoracicus",NA,"Graptotettix thoracicus","Distant",1892
+6778,"genus",6434,"Cicadettinae","Cicadettini","Gudanga",NA,NA,"Gudanga","Distant",1905
+6780,"species",6778,"Cicadettinae","Cicadettini","Gudanga","adamsi",NA,"Gudanga adamsi","Moulds",1996
+6782,"species",6778,"Cicadettinae","Cicadettini","Gudanga","aurea",NA,"Gudanga aurea","Moulds",1996
+6783,"species",6778,"Cicadettinae","Cicadettini","Gudanga","boulayi",NA,"Gudanga boulayi","Distant",1905
+6784,"species",6778,"Cicadettinae","Cicadettini","Gudanga","browni",NA,"Gudanga browni","Distant",1913
+6785,"species",6778,"Cicadettinae","Cicadettini","Gudanga","emmotti",NA,"Gudanga emmotti","Ewart & Popple",2013
+6786,"species",6778,"Cicadettinae","Cicadettini","Gudanga","kalgoorliensis",NA,"Gudanga kalgoorliensis","Moulds",1996
+1127909,"species",6778,"Cicadettinae","Cicadettini","Gudanga","kolos",NA,"Gudanga kolos","Moulds & Marshall",2025
+6787,"species",6778,"Cicadettinae","Cicadettini","Gudanga","lithgowae",NA,"Gudanga lithgowae","Ewart & Popple",2013
+6789,"species",6778,"Cicadettinae","Cicadettini","Gudanga","nowlandi",NA,"Gudanga nowlandi","Ewart & Popple",2013
+6790,"species",6778,"Cicadettinae","Cicadettini","Gudanga","pterolongata",NA,"Gudanga pterolongata","Olive",2007
+6791,"species",6778,"Cicadettinae","Cicadettini","Gudanga","solata",NA,"Gudanga solata","Moulds",1996
+6792,"genus",6434,"Cicadettinae","Cicadettini","Haemopsalta",NA,NA,"Haemopsalta","Owen & Moulds",2016
+6794,"species",6792,"Cicadettinae","Cicadettini","Haemopsalta","aktites",NA,"Haemopsalta aktites","Ewart",1989
+646566,"species",6792,"Cicadettinae","Cicadettini","Haemopsalta","eximia",NA,"Haemopsalta eximia","Emery & Emery",2021
+6796,"species",6792,"Cicadettinae","Cicadettini","Haemopsalta","flammeata",NA,"Haemopsalta flammeata","Owen & Moulds",2016
+6797,"species",6792,"Cicadettinae","Cicadettini","Haemopsalta","georgina",NA,"Haemopsalta georgina","Owen & Moulds",2016
+6798,"species",6792,"Cicadettinae","Cicadettini","Haemopsalta","rubea",NA,"Haemopsalta rubea","Goding & Froggatt",1904
+9577,"genus",6434,"Cicadettinae","Cicadettini","Hea",NA,NA,"Hea","Distant",1906
+9580,"species",9577,"Cicadettinae","Cicadettini","Hea","choui",NA,"Hea choui","Lei",1992
+9581,"species",9577,"Cicadettinae","Cicadettini","Hea","fasciata",NA,"Hea fasciata","Distant",1906
+739404,"species",9577,"Cicadettinae","Cicadettini","Hea","qiuae",NA,"Hea qiuae","Wang",2023
+9583,"species",9577,"Cicadettinae","Cicadettini","Hea","yunnanensis",NA,"Hea yunnanensis","Lei, Chou, Yao & Lu",1995
+6801,"genus",6434,"Cicadettinae","Cicadettini","Heliopsalta",NA,NA,"Heliopsalta","Moulds",2012
+6802,"species",6801,"Cicadettinae","Cicadettini","Heliopsalta","polita",NA,"Heliopsalta polita","Popple",2003
+6803,"genus",6434,"Cicadettinae","Cicadettini","Heremusina",NA,NA,"Heremusina","Ewart",2018
+6804,"species",6803,"Cicadettinae","Cicadettini","Heremusina","pipatio",NA,"Heremusina pipatio","Ewart",2018
+6805,"species",6803,"Cicadettinae","Cicadettini","Heremusina","udeoecetes",NA,"Heremusina udeoecetes","Ewart",2018
+6806,"genus",6434,"Cicadettinae","Cicadettini","Hilaphura",NA,NA,"Hilaphura","Webb",1979
+6808,"species",6806,"Cicadettinae","Cicadettini","Hilaphura","varipes",NA,"Hilaphura varipes","Waltl",1837
+6815,"genus",6434,"Cicadettinae","Cicadettini","Huechys",NA,NA,"Huechys","Amyot & Audinet-Serville",1843
+6826,"species",6815,"Cicadettinae","Cicadettini","Huechys","aenea",NA,"Huechys aenea","Distant",1913
+6827,"species",6815,"Cicadettinae","Cicadettini","Huechys","beata",NA,"Huechys beata","Chou, Lei, Li, Lu & Yao",1997
+6830,"species",6815,"Cicadettinae","Cicadettini","Huechys","celebensis",NA,"Huechys celebensis","Distant",1888
+6833,"species",6815,"Cicadettinae","Cicadettini","Huechys","chantrainei",NA,"Huechys chantrainei","Boulard",2013
+6836,"species",6815,"Cicadettinae","Cicadettini","Huechys","chryselectra",NA,"Huechys chryselectra","Distant",1888
+6839,"species",6815,"Cicadettinae","Cicadettini","Huechys","curvata",NA,"Huechys curvata","Haupt",1924
+6840,"species",6815,"Cicadettinae","Cicadettini","Huechys","dohertyi",NA,"Huechys dohertyi","Distant",1892
+6842,"species",6815,"Cicadettinae","Cicadettini","Huechys","eos",NA,"Huechys eos","Breddin",1901
+6843,"species",6815,"Cicadettinae","Cicadettini","Huechys","facialis",NA,"Huechys facialis","Walker",1857
+615854,"subspecies",6843,"Cicadettinae","Cicadettini","Huechys","facialis","facialis","Huechys facialis facialis","Walker",1857
+6845,"subspecies",6843,"Cicadettinae","Cicadettini","Huechys","facialis","obscura","Huechys facialis obscura","Haupt",1924
+6846,"species",6815,"Cicadettinae","Cicadettini","Huechys","fretensis",NA,"Huechys fretensis","Haupt",1924
+6847,"species",6815,"Cicadettinae","Cicadettini","Huechys","funebris",NA,"Huechys funebris","Lee",2011
+6848,"species",6815,"Cicadettinae","Cicadettini","Huechys","fusca",NA,"Huechys fusca","Distant",1892
+6851,"species",6815,"Cicadettinae","Cicadettini","Huechys","haematica",NA,"Huechys haematica","Distant",1888
+6867,"species",6815,"Cicadettinae","Cicadettini","Huechys","insularis",NA,"Huechys insularis","Haupt",1924
+6868,"subspecies",6867,"Cicadettinae","Cicadettini","Huechys","insularis","borneensis","Huechys insularis borneensis","Haupt",1924
+615855,"subspecies",6867,"Cicadettinae","Cicadettini","Huechys","insularis","insularis","Huechys insularis insularis","Haupt",1924
+6869,"subspecies",6867,"Cicadettinae","Cicadettini","Huechys","insularis","lombokensis","Huechys insularis lombokensis","Haupt",1924
+6870,"subspecies",6867,"Cicadettinae","Cicadettini","Huechys","insularis","niasensis","Huechys insularis niasensis","Haupt",1924
+6871,"subspecies",6867,"Cicadettinae","Cicadettini","Huechys","insularis","sumatrana","Huechys insularis sumatrana","Haupt",1924
+6872,"species",6815,"Cicadettinae","Cicadettini","Huechys","lutulenta",NA,"Huechys lutulenta","Distant",1892
+6873,"species",6815,"Cicadettinae","Cicadettini","Huechys","nigripennis",NA,"Huechys nigripennis","Moulton",1923
+6874,"species",6815,"Cicadettinae","Cicadettini","Huechys","parvula",NA,"Huechys parvula","Haupt",1924
+6875,"species",6815,"Cicadettinae","Cicadettini","Huechys","phaenicura",NA,"Huechys phaenicura","Germar",1834
+6881,"species",6815,"Cicadettinae","Cicadettini","Huechys","pingenda",NA,"Huechys pingenda","Distant",1888
+6882,"subspecies",6881,"Cicadettinae","Cicadettini","Huechys","pingenda","breddini","Huechys pingenda breddini","Haupt",1924
+615853,"subspecies",6881,"Cicadettinae","Cicadettini","Huechys","pingenda","pingenda","Huechys pingenda pingenda","Distant",1888
+615678,"species",6815,"Cicadettinae","Cicadettini","Huechys","sanguinea",NA,"Huechys sanguinea","De Geer",1773
+6853,"species",6815,"Cicadettinae","Cicadettini","Huechys","testacea",NA,"Huechys testacea","Fabricius",1787
+6861,"subspecies",6853,"Cicadettinae","Cicadettini","Huechys","testacea","aterrima","Huechys testacea aterrima","Haupt",1924
+6862,"subspecies",6853,"Cicadettinae","Cicadettini","Huechys","testacea","brunnea","Huechys testacea brunnea","Haupt",1924
+616081,"subspecies",6853,"Cicadettinae","Cicadettini","Huechys","testacea","incarnata","Huechys testacea incarnata","Germar",1834
+6863,"subspecies",6853,"Cicadettinae","Cicadettini","Huechys","testacea","novaeguineensis","Huechys testacea novaeguineensis","Haupt",1924
+6864,"subspecies",6853,"Cicadettinae","Cicadettini","Huechys","testacea","nox","Huechys testacea nox","Schmidt",1919
+6859,"subspecies",6853,"Cicadettinae","Cicadettini","Huechys","testacea","testacea","Huechys testacea testacea","Fabricius",1787
+6866,"subspecies",6853,"Cicadettinae","Cicadettini","Huechys","testacea","venosa","Huechys testacea venosa","Haupt",1924
+6908,"species",6815,"Cicadettinae","Cicadettini","Huechys","thoracica",NA,"Huechys thoracica","Distant",1879
+6909,"species",6815,"Cicadettinae","Cicadettini","Huechys","tonkinensis",NA,"Huechys tonkinensis","Distant",1917
+6910,"species",6815,"Cicadettinae","Cicadettini","Huechys","vidua",NA,"Huechys vidua","White",1846
+615623,"genus",6434,"Cicadettinae","Cicadettini","Ingcainyenzane",NA,NA,"Ingcainyenzane","Sanborn & Villet",2020
+599947,"species",615623,"Cicadettinae","Cicadettini","Ingcainyenzane","irhiniensis",NA,"Ingcainyenzane irhiniensis","Sanborn & Villet",2020
+599948,"species",615623,"Cicadettinae","Cicadettini","Ingcainyenzane","nolukhanyoensis",NA,"Ingcainyenzane nolukhanyoensis","Sanborn & Villet",2020
+599949,"species",615623,"Cicadettinae","Cicadettini","Ingcainyenzane","umgeniensis",NA,"Ingcainyenzane umgeniensis","Sanborn & Villet",2020
+659838,"genus",6434,"Cicadettinae","Cicadettini","Kalarko",NA,NA,"Kalarko","Moulds & Marshall",2022
+659839,"species",659838,"Cicadettinae","Cicadettini","Kalarko","ferruginosus",NA,"Kalarko ferruginosus","Moulds & Marshall",2022
+7679,"genus",6434,"Cicadettinae","Cicadettini","Kanakia",NA,NA,"Kanakia","Distant",1892
+7680,"species",7679,"Cicadettinae","Cicadettini","Kanakia","congrua",NA,"Kanakia congrua","Goding & Froggatt",1904
+7682,"species",7679,"Cicadettinae","Cicadettini","Kanakia","fuscocosta",NA,"Kanakia fuscocosta","Delorme",2016
+7683,"species",7679,"Cicadettinae","Cicadettini","Kanakia","gigas",NA,"Kanakia gigas","Boulard",1988
+7684,"species",7679,"Cicadettinae","Cicadettini","Kanakia","paniensis",NA,"Kanakia paniensis","Delorme",2016
+7685,"species",7679,"Cicadettinae","Cicadettini","Kanakia","rana",NA,"Kanakia rana","Delorme",2016
+7686,"species",7679,"Cicadettinae","Cicadettini","Kanakia","salesnii",NA,"Kanakia salesnii","Delorme",2016
+7687,"species",7679,"Cicadettinae","Cicadettini","Kanakia","typica",NA,"Kanakia typica","Distant",1892
+6912,"genus",6434,"Cicadettinae","Cicadettini","Kikihia",NA,NA,"Kikihia","Dugdale",1972
+6913,"species",6912,"Cicadettinae","Cicadettini","Kikihia","angusta",NA,"Kikihia angusta","Walker",1850
+6918,"species",6912,"Cicadettinae","Cicadettini","Kikihia","cauta",NA,"Kikihia cauta","Myers",1921
+6919,"species",6912,"Cicadettinae","Cicadettini","Kikihia","convicta",NA,"Kikihia convicta","Distant",1892
+6920,"species",6912,"Cicadettinae","Cicadettini","Kikihia","cutora",NA,"Kikihia cutora","Walker",1850
+6929,"subspecies",6920,"Cicadettinae","Cicadettini","Kikihia","cutora","cumberi","Kikihia cutora cumberi","Fleming",1973
+616082,"subspecies",6920,"Cicadettinae","Cicadettini","Kikihia","cutora","cutora","Kikihia cutora cutora","Walker",1850
+6931,"subspecies",6920,"Cicadettinae","Cicadettini","Kikihia","cutora","exulis","Kikihia cutora exulis","Hudson",1950
+6930,"species",6912,"Cicadettinae","Cicadettini","Kikihia","dugdalei",NA,"Kikihia dugdalei","Fleming",1984
+6932,"species",6912,"Cicadettinae","Cicadettini","Kikihia","horologium",NA,"Kikihia horologium","Fleming",1984
+6936,"species",6912,"Cicadettinae","Cicadettini","Kikihia","laneorum",NA,"Kikihia laneorum","Fleming",1984
+6938,"species",6912,"Cicadettinae","Cicadettini","Kikihia","longula",NA,"Kikihia longula","Hudson",1950
+6941,"species",6912,"Cicadettinae","Cicadettini","Kikihia","muta",NA,"Kikihia muta","Fabricius",1775
+615664,"subspecies",6941,"Cicadettinae","Cicadettini","Kikihia","muta","muta","Kikihia muta muta","Fabricius",1775
+6955,"subspecies",6941,"Cicadettinae","Cicadettini","Kikihia","muta","pallida","Kikihia muta pallida","Hudson",1950
+6956,"species",6912,"Cicadettinae","Cicadettini","Kikihia","ochrina",NA,"Kikihia ochrina","Walker",1858
+6961,"species",6912,"Cicadettinae","Cicadettini","Kikihia","paxillulae",NA,"Kikihia paxillulae","Fleming",1984
+6962,"species",6912,"Cicadettinae","Cicadettini","Kikihia","rosea",NA,"Kikihia rosea","Walker",1850
+6967,"species",6912,"Cicadettinae","Cicadettini","Kikihia","scutellaris",NA,"Kikihia scutellaris","Walker",1850
+6970,"species",6912,"Cicadettinae","Cicadettini","Kikihia","subalpina",NA,"Kikihia subalpina","Hudson",1891
+6982,"genus",6434,"Cicadettinae","Cicadettini","Kobonga",NA,NA,"Kobonga","Distant",1906
+6983,"species",6982,"Cicadettinae","Cicadettini","Kobonga","apicans",NA,"Kobonga apicans","Moulds & Kopestonsky",2001
+6984,"species",6982,"Cicadettinae","Cicadettini","Kobonga","apicata",NA,"Kobonga apicata","Ashton",1914
+6985,"species",6982,"Cicadettinae","Cicadettini","Kobonga","froggatti",NA,"Kobonga froggatti","Distant",1913
+6987,"species",6982,"Cicadettinae","Cicadettini","Kobonga","fuscomarginata",NA,"Kobonga fuscomarginata","Distant",1914
+6989,"species",6982,"Cicadettinae","Cicadettini","Kobonga","godingi",NA,"Kobonga godingi","Distant",1905
+6991,"species",6982,"Cicadettinae","Cicadettini","Kobonga","oxleyi",NA,"Kobonga oxleyi","Distant",1882
+6992,"species",6982,"Cicadettinae","Cicadettini","Kobonga","umbrimargo",NA,"Kobonga umbrimargo","Walker",1858
+6994,"genus",6434,"Cicadettinae","Cicadettini","Kosemia",NA,NA,"Kosemia","Matsumura",1927
+6999,"species",6994,"Cicadettinae","Cicadettini","Kosemia","admirabilis",NA,"Kosemia admirabilis","Kato",1927
+1077851,"species",6994,"Cicadettinae","Cicadettini","Kosemia","brevis",NA,"Kosemia brevis","Lee & Lei",2024
+7005,"species",6994,"Cicadettinae","Cicadettini","Kosemia","castanea",NA,"Kosemia castanea","Qi, Hayashi & Wei",2015
+7006,"species",6994,"Cicadettinae","Cicadettini","Kosemia","chinensis",NA,"Kosemia chinensis","Distant",1905
+7010,"species",6994,"Cicadettinae","Cicadettini","Kosemia","fuscoclavalis",NA,"Kosemia fuscoclavalis","Chen",1943
+7014,"species",6994,"Cicadettinae","Cicadettini","Kosemia","guanzhongensis",NA,"Kosemia guanzhongensis","Qi, Hayashi & Wei",2015
+7015,"species",6994,"Cicadettinae","Cicadettini","Kosemia","mogannia",NA,"Kosemia mogannia","Distant",1905
+7021,"species",6994,"Cicadettinae","Cicadettini","Kosemia","phaea",NA,"Kosemia phaea","Chou & Lei",1997
+7022,"species",6994,"Cicadettinae","Cicadettini","Kosemia","prominentis",NA,"Kosemia prominentis","Lei & Chou",1997
+7023,"species",6994,"Cicadettinae","Cicadettini","Kosemia","radiator",NA,"Kosemia radiator","Uhler",1896
+7027,"species",6994,"Cicadettinae","Cicadettini","Kosemia","yamashitai",NA,"Kosemia yamashitai","Esaki & Ishihara",1950
+7028,"species",6994,"Cicadettinae","Cicadettini","Kosemia","yezoensis",NA,"Kosemia yezoensis","Matsumura",1898
+742552,"genus",6434,"Cicadettinae","Cicadettini","†",NA,NA,"†","Laopsaltria Moulds, Frese & McCurry",2022
+742557,"genus",742552,"Cicadettinae","Cicadettini","†",NA,NA,"†","Laopsaltria ferruginosa Moulds, Frese & McCurry",2022
+7038,"genus",6434,"Cicadettinae","Cicadettini","Limnopsalta",NA,NA,"Limnopsalta","Moulds",2012
+7039,"species",7038,"Cicadettinae","Cicadettini","Limnopsalta","stradbrokensis",NA,"Limnopsalta stradbrokensis","Distant",1915
+7040,"genus",6434,"Cicadettinae","Cicadettini","Linguacicada",NA,NA,"Linguacicada","Chou & Lu",1997
+7041,"species",7040,"Cicadettinae","Cicadettini","Linguacicada","continuata",NA,"Linguacicada continuata","Distant",1888
+7042,"genus",6434,"Cicadettinae","Cicadettini","Maoricicada",NA,NA,"Maoricicada","Dugdale",1972
+7045,"species",7042,"Cicadettinae","Cicadettini","Maoricicada","alticola",NA,"Maoricicada alticola","Dugdale & Flemming",1978
+7046,"species",7042,"Cicadettinae","Cicadettini","Maoricicada","campbelli",NA,"Maoricicada campbelli","Myers",1923
+7049,"species",7042,"Cicadettinae","Cicadettini","Maoricicada","cassiope",NA,"Maoricicada cassiope","Hudson",1891
+7052,"species",7042,"Cicadettinae","Cicadettini","Maoricicada","clamitans",NA,"Maoricicada clamitans","Dugdale & Flemming",1978
+7054,"species",7042,"Cicadettinae","Cicadettini","Maoricicada","hamiltoni",NA,"Maoricicada hamiltoni","Myers",1926
+7055,"species",7042,"Cicadettinae","Cicadettini","Maoricicada","iolanthe",NA,"Maoricicada iolanthe","Hudson",1891
+7058,"species",7042,"Cicadettinae","Cicadettini","Maoricicada","lindsayi",NA,"Maoricicada lindsayi","Myers",1923
+7060,"species",7042,"Cicadettinae","Cicadettini","Maoricicada","mangu",NA,"Maoricicada mangu","White",1879
+7062,"subspecies",7060,"Cicadettinae","Cicadettini","Maoricicada","mangu","celer","Maoricicada mangu celer","Dugdale & Flemming",1978
+7063,"subspecies",7060,"Cicadettinae","Cicadettini","Maoricicada","mangu","gourlayi","Maoricicada mangu gourlayi","Dugdale & Flemming",1978
+615771,"subspecies",7060,"Cicadettinae","Cicadettini","Maoricicada","mangu","mangu","Maoricicada mangu mangu","White",1879
+7064,"subspecies",7060,"Cicadettinae","Cicadettini","Maoricicada","mangu","multicostata","Maoricicada mangu multicostata","Dugdale & Flemming",1978
+7065,"species",7042,"Cicadettinae","Cicadettini","Maoricicada","myersi",NA,"Maoricicada myersi","Fleming",1971
+7067,"species",7042,"Cicadettinae","Cicadettini","Maoricicada","nigra",NA,"Maoricicada nigra","Myers",1921
+7068,"subspecies",7067,"Cicadettinae","Cicadettini","Maoricicada","nigra","frigida","Maoricicada nigra frigida","Dugdale & Flemming",1978
+615789,"subspecies",7067,"Cicadettinae","Cicadettini","Maoricicada","nigra","nigra","Maoricicada nigra nigra","Myers",1921
+7071,"species",7042,"Cicadettinae","Cicadettini","Maoricicada","oromelaena",NA,"Maoricicada oromelaena","Myers",1926
+7072,"species",7042,"Cicadettinae","Cicadettini","Maoricicada","otagoensis",NA,"Maoricicada otagoensis","Dugdale & Flemming",1978
+7074,"subspecies",7072,"Cicadettinae","Cicadettini","Maoricicada","otagoensis","maceweni","Maoricicada otagoensis maceweni","Dugdale & Flemming",1978
+615857,"subspecies",7072,"Cicadettinae","Cicadettini","Maoricicada","otagoensis","otagoensis","Maoricicada otagoensis otagoensis","Dugdale & Flemming",1978
+7075,"species",7042,"Cicadettinae","Cicadettini","Maoricicada","phaeoptera",NA,"Maoricicada phaeoptera","Dugdale & Flemming",1978
+7077,"species",7042,"Cicadettinae","Cicadettini","Maoricicada","tenuis",NA,"Maoricicada tenuis","Dugdale & Flemming",1978
+7079,"genus",6434,"Cicadettinae","Cicadettini","Marteena",NA,NA,"Marteena","Moulds",1986
+7080,"species",7079,"Cicadettinae","Cicadettini","Marteena","rubricincta",NA,"Marteena rubricincta","Goding & Froggatt",1904
+7081,"genus",6434,"Cicadettinae","Cicadettini","Melampsalta",NA,NA,"Melampsalta","Kolenati",1857
+7099,"species",7081,"Cicadettinae","Cicadettini","Melampsalta","albeola",NA,"Melampsalta albeola","Eversmann",1859
+7100,"species",7081,"Cicadettinae","Cicadettini","Melampsalta","artensis",NA,"Melampsalta artensis","Montrouzier",1861
+7106,"species",7081,"Cicadettinae","Cicadettini","Melampsalta","caspica",NA,"Melampsalta caspica","Kolenati",1857
+7109,"species",7081,"Cicadettinae","Cicadettini","Melampsalta","expansa",NA,"Melampsalta expansa","Haupt",1918
+7117,"species",7081,"Cicadettinae","Cicadettini","Melampsalta","literata",NA,"Melampsalta literata","Distant",1888
+7118,"species",7081,"Cicadettinae","Cicadettini","Melampsalta","lobulata",NA,"Melampsalta lobulata","Fieber",1876
+7122,"species",7081,"Cicadettinae","Cicadettini","Melampsalta","musiva",NA,"Melampsalta musiva","Germar",1830
+7130,"species",7081,"Cicadettinae","Cicadettini","Melampsalta","neocruentata",NA,"Melampsalta neocruentata","Liu",1940
+7131,"species",7081,"Cicadettinae","Cicadettini","Melampsalta","occidentalis",NA,"Melampsalta occidentalis","Schumacher",1922
+7132,"species",7081,"Cicadettinae","Cicadettini","Melampsalta","sinuatipennis",NA,"Melampsalta sinuatipennis","Oshanin",1906
+7134,"species",7081,"Cicadettinae","Cicadettini","Melampsalta","soulii",NA,"Melampsalta soulii","Distant",1905
+7137,"species",7081,"Cicadettinae","Cicadettini","Melampsalta","telxiope",NA,"Melampsalta telxiope","Walker",1850
+7140,"species",7081,"Cicadettinae","Cicadettini","Melampsalta","uchiyamae",NA,"Melampsalta uchiyamae","Matsumura",1927
+7142,"species",7081,"Cicadettinae","Cicadettini","Melampsalta","yapensis",NA,"Melampsalta yapensis","Esaki",1947
+7143,"species",7081,"Cicadettinae","Cicadettini","Melampsalta","yasumatsui",NA,"Melampsalta yasumatsui","Esaki",1947
+7688,"genus",6434,"Cicadettinae","Cicadettini","Melanesiana",NA,NA,"Melanesiana","Delorme",2017
+7690,"species",7688,"Cicadettinae","Cicadettini","Melanesiana","kataouii",NA,"Melanesiana kataouii","Delorme",2017
+7144,"genus",6434,"Cicadettinae","Cicadettini","Mouia",NA,NA,"Mouia","Distant",1920
+7145,"species",7144,"Cicadettinae","Cicadettini","Mouia","variabilis",NA,"Mouia variabilis","Distant",1920
+7149,"genus",6434,"Cicadettinae","Cicadettini","Mugadina",NA,NA,"Mugadina","Moulds",2012
+949640,"species",7149,"Cicadettinae","Cicadettini","Mugadina","cloncurryi",NA,"Mugadina cloncurryi","Ewart",2022
+7150,"species",7149,"Cicadettinae","Cicadettini","Mugadina","emma",NA,"Mugadina emma","Goding & Froggatt",1904
+949641,"species",7149,"Cicadettinae","Cicadettini","Mugadina","hamiltoni",NA,"Mugadina hamiltoni","Ewart",2022
+7151,"species",7149,"Cicadettinae","Cicadettini","Mugadina","marshalli",NA,"Mugadina marshalli","Distant",1911
+614443,"species",7149,"Cicadettinae","Cicadettini","Mugadina","superba",NA,"Mugadina superba","Ewart & Moulds",2021
+7691,"genus",6434,"Cicadettinae","Cicadettini","Murmurillana",NA,NA,"Murmurillana","Delorme",2016
+7692,"species",7691,"Cicadettinae","Cicadettini","Murmurillana","inaudibilis",NA,"Murmurillana inaudibilis","Delorme",2016
+7693,"species",7691,"Cicadettinae","Cicadettini","Murmurillana","paenetacita",NA,"Murmurillana paenetacita","Delorme",2016
+7152,"genus",6434,"Cicadettinae","Cicadettini","Myersalna",NA,NA,"Myersalna","Boulard",1988
+7153,"species",7152,"Cicadettinae","Cicadettini","Myersalna","depicta",NA,"Myersalna depicta","Distant",1920
+7156,"species",7152,"Cicadettinae","Cicadettini","Myersalna","dumbeana",NA,"Myersalna dumbeana","Distant",1920
+7157,"species",7152,"Cicadettinae","Cicadettini","Myersalna","flavocaerulea",NA,"Myersalna flavocaerulea","Boulard",1992
+7158,"genus",6434,"Cicadettinae","Cicadettini","Myopsalta",NA,NA,"Myopsalta","Moulds",2012
+7168,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","albiventris",NA,"Myopsalta albiventris","Popple",2017
+7169,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","atrata",NA,"Myopsalta atrata","Goding & Froggatt",1904
+7170,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","bassiana",NA,"Myopsalta bassiana","Popple",2017
+7160,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","binotata",NA,"Myopsalta binotata","Goding & Froggatt",1904
+1040341,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","bisonabilis",NA,"Myopsalta bisonabilis","Popple & Stolarski",2024
+7171,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","chrysopedia",NA,"Myopsalta chrysopedia","Popple",2017
+7161,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","coolahensis",NA,"Myopsalta coolahensis","Emery, Emery & Poople",2015
+7172,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","crucifera",NA,"Myopsalta crucifera","Ashton",1912
+7173,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","gordoni",NA,"Myopsalta gordoni","Popple",2017
+7162,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","lactea",NA,"Myopsalta lactea","Distant",1905
+7174,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","leona",NA,"Myopsalta leona","Popple",2017
+7163,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","libritor",NA,"Myopsalta libritor","Emery, Emery & Poople",2015
+7175,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","longicauda",NA,"Myopsalta longicauda","Popple",2017
+7176,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","mackinlayi",NA,"Myopsalta mackinlayi","Distant",1882
+7177,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","majurae",NA,"Myopsalta majurae","Popple",2017
+7178,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","melanobasis",NA,"Myopsalta melanobasis","Popple",2017
+7179,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","parvula",NA,"Myopsalta parvula","Popple",2017
+7180,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","platyptera",NA,"Myopsalta platyptera","Popple",2017
+7181,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","riverina",NA,"Myopsalta riverina","Popple",2017
+7182,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","septa",NA,"Myopsalta septa","Popple",2017
+7183,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","umbra",NA,"Myopsalta umbra","Popple",2017
+7164,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","waterhousei",NA,"Myopsalta waterhousei","Distant",1905
+7166,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","wollomombii",NA,"Myopsalta wollomombii","Coombs",1995
+7184,"species",7158,"Cicadettinae","Cicadettini","Myopsalta","xerograsidia",NA,"Myopsalta xerograsidia","Popple",2017
+7185,"genus",6434,"Cicadettinae","Cicadettini","Nanopsalta",NA,NA,"Nanopsalta","Moulds",2012
+7186,"species",7185,"Cicadettinae","Cicadettini","Nanopsalta","basalis",NA,"Nanopsalta basalis","Goding & Froggatt",1904
+7188,"genus",6434,"Cicadettinae","Cicadettini","Neopunia",NA,NA,"Neopunia","Moulds",2012
+7189,"species",7188,"Cicadettinae","Cicadettini","Neopunia","graminis",NA,"Neopunia graminis","Goding & Froggatt",1904
+7190,"genus",6434,"Cicadettinae","Cicadettini","Nigripsaltria",NA,NA,"Nigripsaltria","Boer",1999
+7192,"species",7190,"Cicadettinae","Cicadettini","Nigripsaltria","carinata",NA,"Nigripsaltria carinata","Boer",1999
+7193,"species",7190,"Cicadettinae","Cicadettini","Nigripsaltria","dali",NA,"Nigripsaltria dali","Boer",1999
+7194,"species",7190,"Cicadettinae","Cicadettini","Nigripsaltria","mouldsi",NA,"Nigripsaltria mouldsi","Boer",1999
+7195,"species",7190,"Cicadettinae","Cicadettini","Nigripsaltria","tagulaensis",NA,"Nigripsaltria tagulaensis","Boer",1999
+7196,"genus",6434,"Cicadettinae","Cicadettini","Noongara",NA,NA,"Noongara","Moulds",2012
+7197,"species",7196,"Cicadettinae","Cicadettini","Noongara","issoides",NA,"Noongara issoides","Distant",1905
+7198,"genus",6434,"Cicadettinae","Cicadettini","Notopsalta",NA,NA,"Notopsalta","Dugdale",1972
+7199,"species",7198,"Cicadettinae","Cicadettini","Notopsalta","melanesiana",NA,"Notopsalta melanesiana","Myers",1926
+7200,"species",7198,"Cicadettinae","Cicadettini","Notopsalta","sericea",NA,"Notopsalta sericea","Walker",1850
+7209,"genus",6434,"Cicadettinae","Cicadettini","Oligoglena",NA,NA,"Oligoglena","Horváth",1912
+7215,"species",7209,"Cicadettinae","Cicadettini","Oligoglena","carayoni",NA,"Oligoglena carayoni","Boulard",1982
+7216,"species",7209,"Cicadettinae","Cicadettini","Oligoglena","filoti",NA,"Oligoglena filoti","Gogala & Trilar",2017
+7217,"species",7209,"Cicadettinae","Cicadettini","Oligoglena","flaveola",NA,"Oligoglena flaveola","Brullé",1832
+550072,"species",7209,"Cicadettinae","Cicadettini","Oligoglena","gogalai",NA,"Oligoglena gogalai","Mol",2020
+7222,"species",7209,"Cicadettinae","Cicadettini","Oligoglena","goumenissa",NA,"Oligoglena goumenissa","Gogala, Drosopoulos & Trilar",2012
+7223,"species",7209,"Cicadettinae","Cicadettini","Oligoglena","iphigenia",NA,"Oligoglena iphigenia","Emeljanov",1996
+7225,"species",7209,"Cicadettinae","Cicadettini","Oligoglena","parvula",NA,"Oligoglena parvula","Fieber",1876
+7232,"species",7209,"Cicadettinae","Cicadettini","Oligoglena","popovi",NA,"Oligoglena popovi","Emeljanov",1996
+7233,"species",7209,"Cicadettinae","Cicadettini","Oligoglena","sakisi",NA,"Oligoglena sakisi","Gogala & Trilar",2017
+7234,"species",7209,"Cicadettinae","Cicadettini","Oligoglena","sibilatrix",NA,"Oligoglena sibilatrix","Horváth",1901
+936744,"species",7209,"Cicadettinae","Cicadettini","Oligoglena","sirintaylan",NA,"Oligoglena sirintaylan","Mol",2023
+7236,"species",7209,"Cicadettinae","Cicadettini","Oligoglena","tibialis",NA,"Oligoglena tibialis","Panzer",1798
+7256,"species",7209,"Cicadettinae","Cicadettini","Oligoglena","turcica",NA,"Oligoglena turcica","Schedl",2001
+7694,"genus",6434,"Cicadettinae","Cicadettini","Pakidetta",NA,NA,"Pakidetta","Sanborn & Ahmed",2017
+7695,"species",7694,"Cicadettinae","Cicadettini","Pakidetta","jamshoroensis",NA,"Pakidetta jamshoroensis","Sanborn & Ahmed",2017
+7257,"genus",6434,"Cicadettinae","Cicadettini","Palapsalta",NA,NA,"Palapsalta","Moulds",2012
+7258,"species",7257,"Cicadettinae","Cicadettini","Palapsalta","belli",NA,"Palapsalta belli","Emery, Emery & Hutchinson",2018
+7263,"species",7257,"Cicadettinae","Cicadettini","Palapsalta","eyrei",NA,"Palapsalta eyrei","Distant",1882
+7266,"species",7257,"Cicadettinae","Cicadettini","Palapsalta","ligneocauda",NA,"Palapsalta ligneocauda","Emery, Emery & Hutchinson",2018
+7267,"species",7257,"Cicadettinae","Cicadettini","Palapsalta","palaga",NA,"Palapsalta palaga","Owen & Moulds",2016
+7269,"species",7257,"Cicadettinae","Cicadettini","Palapsalta","serpens",NA,"Palapsalta serpens","Owen & Moulds",2016
+7261,"species",7257,"Cicadettinae","Cicadettini","Palapsalta","themiscura",NA,"Palapsalta themiscura","Walker",1850
+7271,"species",7257,"Cicadettinae","Cicadettini","Palapsalta","virgulatus",NA,"Palapsalta virgulatus","Ewart",1989
+7272,"species",7257,"Cicadettinae","Cicadettini","Palapsalta","vitellinus",NA,"Palapsalta vitellinus","Ewart",1989
+7696,"genus",6434,"Cicadettinae","Cicadettini","Panialna",NA,NA,"Panialna","Delorme",2016
+7697,"species",7696,"Cicadettinae","Cicadettini","Panialna","parva",NA,"Panialna parva","Boulard",1991
+7698,"genus",6434,"Cicadettinae","Cicadettini","†",NA,NA,"†","Paracicadetta Boulard & Nel",1990
+7699,"genus",7698,"Cicadettinae","Cicadettini","†",NA,NA,"†","Paracicadetta oligocenica Boulard & Nel",1990
+1127903,"genus",6434,"Cicadettinae","Cicadettini","Paraclinata",NA,NA,"Paraclinata","Moulds & Marshall",2025
+1127904,"species",1127903,"Cicadettinae","Cicadettini","Paraclinata","chlorotes",NA,"Paraclinata chlorotes","Moulds & Marshall",2025
+1127905,"species",1127903,"Cicadettinae","Cicadettini","Paraclinata","nullarboris",NA,"Paraclinata nullarboris","Moulds & Marshall",2025
+7273,"genus",6434,"Cicadettinae","Cicadettini","Paradina",NA,NA,"Paradina","Moulds",2012
+7274,"species",7273,"Cicadettinae","Cicadettini","Paradina","leichardti",NA,"Paradina leichardti","Distant",1882
+7276,"genus",6434,"Cicadettinae","Cicadettini","Parvittya",NA,NA,"Parvittya","Distant",1905
+7279,"species",7276,"Cicadettinae","Cicadettini","Parvittya","samara",NA,"Parvittya samara","Distant",1905
+659842,"genus",6434,"Cicadettinae","Cicadettini","Parvopsalta",NA,NA,"Parvopsalta","Moulds & Marshall",2022
+659843,"species",659842,"Cicadettinae","Cicadettini","Parvopsalta","victoriae",NA,"Parvopsalta victoriae","Moulds & Marshall",2022
+7700,"genus",6434,"Cicadettinae","Cicadettini","Paulaudalna",NA,NA,"Paulaudalna","Delorme",2017
+7701,"species",7700,"Cicadettinae","Cicadettini","Paulaudalna","amieuensis",NA,"Paulaudalna amieuensis","Delorme",2017
+7702,"species",7700,"Cicadettinae","Cicadettini","Paulaudalna","marginata",NA,"Paulaudalna marginata","Delorme",2017
+7280,"genus",6434,"Cicadettinae","Cicadettini","Pauropsalta",NA,NA,"Pauropsalta","Goding & Froggatt",1904
+7281,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","accola",NA,"Pauropsalta accola","Owen & Moulds",2016
+7283,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","adelphe",NA,"Pauropsalta adelphe","Owen & Moulds",2016
+7285,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","agasta",NA,"Pauropsalta agasta","Owen & Moulds",2016
+7287,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","borealis",NA,"Pauropsalta borealis","Goding & Froggatt",1904
+7288,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","castanea",NA,"Pauropsalta castanea","Goding & Froggatt",1904
+7290,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","confinis",NA,"Pauropsalta confinis","Owen & Moulds",2016
+7292,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","conflua",NA,"Pauropsalta conflua","Owen & Moulds",2016
+7294,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","contigua",NA,"Pauropsalta contigua","Owen & Moulds",2016
+7296,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","elgneri",NA,"Pauropsalta elgneri","Ashton",1912
+7297,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","ewarti",NA,"Pauropsalta ewarti","Owen & Moulds",2016
+7299,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","exaequata",NA,"Pauropsalta exaequata","Distant",1892
+7301,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","extensa",NA,"Pauropsalta extensa","Goding & Froggatt",1904
+7304,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","extrema",NA,"Pauropsalta extrema","Distant",1892
+7306,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","herveyensis",NA,"Pauropsalta herveyensis","Owen & Moulds",2016
+7308,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","infrasila",NA,"Pauropsalta infrasila","Moulds",1987
+7309,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","infuscata",NA,"Pauropsalta infuscata","Goding & Froggatt",1904
+7310,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","juncta",NA,"Pauropsalta juncta","Owen & Moulds",2016
+7312,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","katherina",NA,"Pauropsalta katherina","Owen & Moulds",2016
+7314,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","kriki",NA,"Pauropsalta kriki","Owen & Moulds",2016
+7316,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","melanopygia",NA,"Pauropsalta melanopygia","Germar",1834
+7319,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","mneme",NA,"Pauropsalta mneme","Walker",1850
+7324,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","opaca",NA,"Pauropsalta opaca","Ewart",1989
+7325,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","rubra",NA,"Pauropsalta rubra","Goding & Froggatt",1904
+7326,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","rufifascia",NA,"Pauropsalta rufifascia","Walker",1850
+7329,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","similis",NA,"Pauropsalta similis","Owen & Moulds",2016
+7331,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","sinavilla",NA,"Pauropsalta sinavilla","Owen & Moulds",2016
+7333,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","stigmatica",NA,"Pauropsalta stigmatica","Distant",1905
+7334,"species",7280,"Cicadettinae","Cicadettini","Pauropsalta","walkeri",NA,"Pauropsalta walkeri","Moulds & Owen",2011
+659826,"genus",6434,"Cicadettinae","Cicadettini","Pedana",NA,NA,"Pedana","Moulds & Marshall",2022
+659828,"species",659826,"Cicadettinae","Cicadettini","Pedana","hesperia",NA,"Pedana hesperia","Moulds & Marshall",2022
+659840,"genus",6434,"Cicadettinae","Cicadettini","Pegapsaltria",NA,NA,"Pegapsaltria","Moulds & Marshall",2022
+659841,"species",659840,"Cicadettinae","Cicadettini","Pegapsaltria","lutea",NA,"Pegapsaltria lutea","Moulds & Marshall",2022
+653678,"genus",6434,"Cicadettinae","Cicadettini","Pericallea",NA,NA,"Pericallea","Moulds, Marshall & Hutchinson",2022
+1066006,"species",653678,"Cicadettinae","Cicadettini","Pericallea","ewartioides",NA,"Pericallea ewartioides","Popple",2024
+653679,"species",653678,"Cicadettinae","Cicadettini","Pericallea","katherina",NA,"Pericallea katherina","Moulds, Marshall & Hutchinson",2022
+7335,"genus",6434,"Cicadettinae","Cicadettini","Philipsalta",NA,NA,"Philipsalta","Lee, Marshall & Hill",2016
+742274,"species",7335,"Cicadettinae","Cicadettini","Philipsalta","exilis",NA,"Philipsalta exilis","Lee & Marshall",2023
+742275,"species",7335,"Cicadettinae","Cicadettini","Philipsalta","lata",NA,"Philipsalta lata","Lee & Marshall",2023
+7336,"species",7335,"Cicadettinae","Cicadettini","Philipsalta","nigrina",NA,"Philipsalta nigrina","Lee, Marshall & Hill",2016
+7337,"genus",6434,"Cicadettinae","Cicadettini","Physeema",NA,NA,"Physeema","Moulds",2012
+7338,"species",7337,"Cicadettinae","Cicadettini","Physeema","bellatrix",NA,"Physeema bellatrix","Ashton",1914
+7339,"species",7337,"Cicadettinae","Cicadettini","Physeema","convergens",NA,"Physeema convergens","Walker",1850
+7343,"species",7337,"Cicadettinae","Cicadettini","Physeema","labyrinthica",NA,"Physeema labyrinthica","Walker",1850
+7346,"species",7337,"Cicadettinae","Cicadettini","Physeema","latorea",NA,"Physeema latorea","Walker",1850
+7347,"species",7337,"Cicadettinae","Cicadettini","Physeema","quadricincta",NA,"Physeema quadricincta","Walker",1850
+7351,"genus",6434,"Cicadettinae","Cicadettini","Pinheya",NA,NA,"Pinheya","Dlabola",1963
+7352,"species",7351,"Cicadettinae","Cicadettini","Pinheya","violacea",NA,"Pinheya violacea","Linnaeus",1758
+7357,"genus",6434,"Cicadettinae","Cicadettini","Pipilopsalta",NA,NA,"Pipilopsalta","Ewart",2005
+7358,"species",7357,"Cicadettinae","Cicadettini","Pipilopsalta","ceuthoviridis",NA,"Pipilopsalta ceuthoviridis","Ewart",2005
+7359,"genus",6434,"Cicadettinae","Cicadettini","Platypsalta",NA,NA,"Platypsalta","Moulds",2012
+7360,"species",7359,"Cicadettinae","Cicadettini","Platypsalta","dubia",NA,"Platypsalta dubia","Goding & Froggatt",1904
+7361,"species",7359,"Cicadettinae","Cicadettini","Platypsalta","mixta",NA,"Platypsalta mixta","Distant",1914
+7362,"genus",6434,"Cicadettinae","Cicadettini","Plerapsalta",NA,NA,"Plerapsalta","Moulds",2012
+7363,"species",7362,"Cicadettinae","Cicadettini","Plerapsalta","incipiens",NA,"Plerapsalta incipiens","Walker",1850
+7369,"species",7362,"Cicadettinae","Cicadettini","Plerapsalta","multifascia",NA,"Plerapsalta multifascia","Walker",1850
+7375,"genus",6434,"Cicadettinae","Cicadettini","Popplepsalta",NA,NA,"Popplepsalta","Owen & Moulds",2016
+7377,"species",7375,"Cicadettinae","Cicadettini","Popplepsalta","aeroides",NA,"Popplepsalta aeroides","Owen & Moulds",2016
+7379,"species",7375,"Cicadettinae","Cicadettini","Popplepsalta","annulata",NA,"Popplepsalta annulata","Goding & Froggatt",1904
+7381,"species",7375,"Cicadettinae","Cicadettini","Popplepsalta","ayrensis",NA,"Popplepsalta ayrensis","Ewart",1989
+7382,"species",7375,"Cicadettinae","Cicadettini","Popplepsalta","blackdownensis",NA,"Popplepsalta blackdownensis","Popple",2013
+7383,"species",7375,"Cicadettinae","Cicadettini","Popplepsalta","corymbiae",NA,"Popplepsalta corymbiae","Popple",2013
+7384,"species",7375,"Cicadettinae","Cicadettini","Popplepsalta","decora",NA,"Popplepsalta decora","Popple",2013
+7385,"species",7375,"Cicadettinae","Cicadettini","Popplepsalta","granitica",NA,"Popplepsalta granitica","Popple",2013
+7386,"species",7375,"Cicadettinae","Cicadettini","Popplepsalta","inversa",NA,"Popplepsalta inversa","Popple",2013
+7387,"species",7375,"Cicadettinae","Cicadettini","Popplepsalta","kobongoides",NA,"Popplepsalta kobongoides","Popple",2013
+7388,"species",7375,"Cicadettinae","Cicadettini","Popplepsalta","notialis",NA,"Popplepsalta notialis","Popple",2013
+7389,"subspecies",7388,"Cicadettinae","Cicadettini","Popplepsalta","notialis","incitata","Popplepsalta notialis incitata","Popple",2013
+7390,"subspecies",7388,"Cicadettinae","Cicadettini","Popplepsalta","notialis","notialis","Popplepsalta notialis notialis","Popple",2013
+7391,"species",7375,"Cicadettinae","Cicadettini","Popplepsalta","rubristrigata",NA,"Popplepsalta rubristrigata","Goding & Froggatt",1904
+7393,"species",7375,"Cicadettinae","Cicadettini","Popplepsalta","simplex",NA,"Popplepsalta simplex","Popple",2013
+7394,"species",7375,"Cicadettinae","Cicadettini","Popplepsalta","subtropica",NA,"Popplepsalta subtropica","Popple",2013
+7395,"species",7375,"Cicadettinae","Cicadettini","Popplepsalta","torrensis",NA,"Popplepsalta torrensis","Popple",2013
+7396,"species",7375,"Cicadettinae","Cicadettini","Popplepsalta","tremula",NA,"Popplepsalta tremula","Popple",2013
+7397,"genus",6434,"Cicadettinae","Cicadettini","Poviliana",NA,NA,"Poviliana","Boulard",1997
+7398,"species",7397,"Cicadettinae","Cicadettini","Poviliana","dayubiikii",NA,"Poviliana dayubiikii","Delorme",2015
+7399,"species",7397,"Cicadettinae","Cicadettini","Poviliana","montrouzieri",NA,"Poviliana montrouzieri","Delorme",2015
+7400,"species",7397,"Cicadettinae","Cicadettini","Poviliana","sarasini",NA,"Poviliana sarasini","Distant",1914
+7401,"species",7397,"Cicadettinae","Cicadettini","Poviliana","vincentiensis",NA,"Poviliana vincentiensis","Boulard",1997
+7703,"genus",6434,"Cicadettinae","Cicadettini","Pseudokanakia",NA,NA,"Pseudokanakia","Delorme",2016
+7704,"species",7703,"Cicadettinae","Cicadettini","Pseudokanakia","flavoannulata",NA,"Pseudokanakia flavoannulata","Distant",1920
+7402,"genus",6434,"Cicadettinae","Cicadettini","Pseudotettigetta",NA,NA,"Pseudotettigetta","Puissant",2010
+7403,"species",7402,"Cicadettinae","Cicadettini","Pseudotettigetta","melanophrys",NA,"Pseudotettigetta melanophrys","Horváth",1907
+7404,"subspecies",7403,"Cicadettinae","Cicadettini","Pseudotettigetta","melanophrys","leunami","Pseudotettigetta melanophrys leunami","Boulard",2000
+615858,"subspecies",7403,"Cicadettinae","Cicadettini","Pseudotettigetta","melanophrys","melanophrys","Pseudotettigetta melanophrys melanophrys","Horváth",1907
+7406,"genus",6434,"Cicadettinae","Cicadettini","Punia",NA,NA,"Punia","Moulds",2012
+598991,"species",7406,"Cicadettinae","Cicadettini","Punia","hyas",NA,"Punia hyas","Moulds",2020
+598989,"species",7406,"Cicadettinae","Cicadettini","Punia","kolos",NA,"Punia kolos","Moulds",2020
+598993,"species",7406,"Cicadettinae","Cicadettini","Punia","limpida",NA,"Punia limpida","Moulds",2020
+7407,"species",7406,"Cicadettinae","Cicadettini","Punia","minima",NA,"Punia minima","Goding & Froggatt",1904
+598995,"species",7406,"Cicadettinae","Cicadettini","Punia","queenslandica",NA,"Punia queenslandica","Moulds",2020
+7408,"genus",6434,"Cicadettinae","Cicadettini","Pyropsalta",NA,NA,"Pyropsalta","Moulds",2012
+659851,"species",7408,"Cicadettinae","Cicadettini","Pyropsalta","amnica",NA,"Pyropsalta amnica","Moulds & Marshall",2022
+7409,"species",7408,"Cicadettinae","Cicadettini","Pyropsalta","melete",NA,"Pyropsalta melete","Walker",1850
+659849,"species",7408,"Cicadettinae","Cicadettini","Pyropsalta","patula",NA,"Pyropsalta patula","Moulds & Marshall",2022
+659850,"species",7408,"Cicadettinae","Cicadettini","Pyropsalta","rhythmica",NA,"Pyropsalta rhythmica","Moulds & Marshall",2022
+7411,"genus",6434,"Cicadettinae","Cicadettini","Relictapsalta",NA,NA,"Relictapsalta","Owen & Moulds",2016
+7413,"species",7411,"Cicadettinae","Cicadettini","Relictapsalta","nigristriga",NA,"Relictapsalta nigristriga","Goding & Froggatt",1904
+7416,"genus",6434,"Cicadettinae","Cicadettini","Rhodopsalta",NA,NA,"Rhodopsalta","Dugdale",1972
+7417,"species",7416,"Cicadettinae","Cicadettini","Rhodopsalta","cruentata",NA,"Rhodopsalta cruentata","Fabricius",1775
+7423,"species",7416,"Cicadettinae","Cicadettini","Rhodopsalta","leptomera",NA,"Rhodopsalta leptomera","Myers",1921
+7424,"species",7416,"Cicadettinae","Cicadettini","Rhodopsalta","microdora",NA,"Rhodopsalta microdora","Hudson",1936
+7425,"genus",6434,"Cicadettinae","Cicadettini","Rouxalna",NA,NA,"Rouxalna","Boulard",1999
+7426,"species",7425,"Cicadettinae","Cicadettini","Rouxalna","rouxi",NA,"Rouxalna rouxi","Distant",1914
+7427,"species",7425,"Cicadettinae","Cicadettini","Rouxalna","scabens",NA,"Rouxalna scabens","Delorme",2018
+7428,"species",7425,"Cicadettinae","Cicadettini","Rouxalna","villosa",NA,"Rouxalna villosa","Delorme",2018
+7429,"genus",6434,"Cicadettinae","Cicadettini","Samaecicada",NA,NA,"Samaecicada","Popple & Emery",2010
+944743,"species",7429,"Cicadettinae","Cicadettini","Samaecicada","mallee",NA,"Samaecicada mallee","Popple",2023
+7430,"species",7429,"Cicadettinae","Cicadettini","Samaecicada","subolivacea",NA,"Samaecicada subolivacea","Ashton",1912
+7431,"genus",6434,"Cicadettinae","Cicadettini","Saticula",NA,NA,"Saticula","Stål",1866
+7433,"species",7431,"Cicadettinae","Cicadettini","Saticula","coriaria",NA,"Saticula coriaria","Stål",1866
+7439,"species",7431,"Cicadettinae","Cicadettini","Saticula","vayssieresi",NA,"Saticula vayssieresi","Boulard",1988
+7440,"genus",6434,"Cicadettinae","Cicadettini","Scieroptera",NA,NA,"Scieroptera","Stål",1866
+7447,"species",7440,"Cicadettinae","Cicadettini","Scieroptera","borneensis",NA,"Scieroptera borneensis","Schmidt",1918
+7448,"species",7440,"Cicadettinae","Cicadettini","Scieroptera","crocea",NA,"Scieroptera crocea","Guérin-Méneville",1838
+7450,"species",7440,"Cicadettinae","Cicadettini","Scieroptera","delineata",NA,"Scieroptera delineata","Distant",1917
+7452,"species",7440,"Cicadettinae","Cicadettini","Scieroptera","distanti",NA,"Scieroptera distanti","Schmidt",1920
+7455,"species",7440,"Cicadettinae","Cicadettini","Scieroptera","flavipes",NA,"Scieroptera flavipes","Schmidt",1918
+7456,"species",7440,"Cicadettinae","Cicadettini","Scieroptera","formosana",NA,"Scieroptera formosana","Schmidt",1918
+7464,"species",7440,"Cicadettinae","Cicadettini","Scieroptera","fulgens",NA,"Scieroptera fulgens","Schmidt",1918
+7465,"species",7440,"Cicadettinae","Cicadettini","Scieroptera","fumigata",NA,"Scieroptera fumigata","Stål",1854
+7466,"species",7440,"Cicadettinae","Cicadettini","Scieroptera","fuscolimbata",NA,"Scieroptera fuscolimbata","Schmidt",1918
+7467,"species",7440,"Cicadettinae","Cicadettini","Scieroptera","hyalinipennis",NA,"Scieroptera hyalinipennis","Schmidt",1912
+7468,"species",7440,"Cicadettinae","Cicadettini","Scieroptera","limpida",NA,"Scieroptera limpida","Schmidt",1918
+7469,"species",7440,"Cicadettinae","Cicadettini","Scieroptera","montana",NA,"Scieroptera montana","Schmidt",1918
+7471,"species",7440,"Cicadettinae","Cicadettini","Scieroptera","niasana",NA,"Scieroptera niasana","Schmidt",1918
+7473,"species",7440,"Cicadettinae","Cicadettini","Scieroptera","orientalis",NA,"Scieroptera orientalis","Schmidt",1918
+7474,"species",7440,"Cicadettinae","Cicadettini","Scieroptera","sanaoensis",NA,"Scieroptera sanaoensis","Schmidt",1924
+7475,"species",7440,"Cicadettinae","Cicadettini","Scieroptera","sarasinorum",NA,"Scieroptera sarasinorum","Breddin",1901
+7476,"species",7440,"Cicadettinae","Cicadettini","Scieroptera","splendidula",NA,"Scieroptera splendidula","Fabricius",1775
+7482,"subspecies",7476,"Cicadettinae","Cicadettini","Scieroptera","splendidula","cuprea","Scieroptera splendidula cuprea","Walker",1868
+615680,"subspecies",7476,"Cicadettinae","Cicadettini","Scieroptera","splendidula","splendidula","Scieroptera splendidula splendidula","Fabricius",1775
+7487,"species",7440,"Cicadettinae","Cicadettini","Scieroptera","sumatrana",NA,"Scieroptera sumatrana","Schmidt",1918
+7490,"subspecies",7487,"Cicadettinae","Cicadettini","Scieroptera","sumatrana","nigripennis","Scieroptera sumatrana nigripennis","Schmidt",1918
+615688,"subspecies",7487,"Cicadettinae","Cicadettini","Scieroptera","sumatrana","sumatrana","Scieroptera sumatrana sumatrana","Schmidt",1918
+7491,"genus",6434,"Cicadettinae","Cicadettini","Scolopita",NA,NA,"Scolopita","Chou & Lei",1997
+7492,"species",7491,"Cicadettinae","Cicadettini","Scolopita","cupis",NA,"Scolopita cupis","Chou & Lu",1997
+7493,"species",7491,"Cicadettinae","Cicadettini","Scolopita","fusca",NA,"Scolopita fusca","Chou & Lei",1997
+7494,"species",7491,"Cicadettinae","Cicadettini","Scolopita","lusiplex",NA,"Scolopita lusiplex","Chou & Lei",1997
+7495,"species",7491,"Cicadettinae","Cicadettini","Scolopita","mokanshanensis",NA,"Scolopita mokanshanensis","Ôuchi",1938
+7496,"genus",6434,"Cicadettinae","Cicadettini","Simona",NA,NA,"Simona","Moulds",2012
+7497,"species",7496,"Cicadettinae","Cicadettini","Simona","erema",NA,"Simona erema","Ewart, Popple & Marshall",2015
+7498,"species",7496,"Cicadettinae","Cicadettini","Simona","retracta",NA,"Simona retracta","Ewart, Popple & Marshall",2015
+7499,"species",7496,"Cicadettinae","Cicadettini","Simona","sancta",NA,"Simona sancta","Distant",1913
+7502,"genus",6434,"Cicadettinae","Cicadettini","Stellenboschia",NA,NA,"Stellenboschia","Distant",1920
+7503,"species",7502,"Cicadettinae","Cicadettini","Stellenboschia","rotundata",NA,"Stellenboschia rotundata","Distant",1892
+7706,"genus",6434,"Cicadettinae","Cicadettini","Strepuntalna",NA,NA,"Strepuntalna","Delorme",2017
+7707,"species",7706,"Cicadettinae","Cicadettini","Strepuntalna","renaudetii",NA,"Strepuntalna renaudetii","Delorme",2017
+7504,"genus",6434,"Cicadettinae","Cicadettini","Sylphoides",NA,NA,"Sylphoides","Moulds",2012
+7505,"species",7504,"Cicadettinae","Cicadettini","Sylphoides","arenaria",NA,"Sylphoides arenaria","Distant",1907
+7508,"genus",6434,"Cicadettinae","Cicadettini","Takapsalta",NA,NA,"Takapsalta","Matsumura",1927
+7509,"species",7508,"Cicadettinae","Cicadettini","Takapsalta","ichinosawana",NA,"Takapsalta ichinosawana","Matsumura",1927
+7510,"species",7508,"Cicadettinae","Cicadettini","Takapsalta","komaensis",NA,"Takapsalta komaensis","Kato",1944
+7511,"genus",6434,"Cicadettinae","Cicadettini","Taurella",NA,NA,"Taurella","Moulds",2012
+7512,"species",7511,"Cicadettinae","Cicadettini","Taurella","forresti",NA,"Taurella forresti","Distant",1882
+7515,"species",7511,"Cicadettinae","Cicadettini","Taurella","froggatti",NA,"Taurella froggatti","Distant",1907
+7517,"species",7511,"Cicadettinae","Cicadettini","Taurella","viridis",NA,"Taurella viridis","Ashton",1912
+7518,"genus",6434,"Cicadettinae","Cicadettini","Telmapsalta",NA,NA,"Telmapsalta","Moulds",2012
+7519,"species",7518,"Cicadettinae","Cicadettini","Telmapsalta","hackeri",NA,"Telmapsalta hackeri","Distant",1915
+7520,"genus",6434,"Cicadettinae","Cicadettini","Terepsalta",NA,NA,"Terepsalta","Moulds",2012
+7521,"species",7520,"Cicadettinae","Cicadettini","Terepsalta","infans",NA,"Terepsalta infans","Walker",1850
+7523,"species",7520,"Cicadettinae","Cicadettini","Terepsalta","leichhardti",NA,"Terepsalta leichhardti","Ewart",2013
+7524,"genus",6434,"Cicadettinae","Cicadettini","Tettigetta",NA,NA,"Tettigetta","Kolenati",1857
+7251,"species",7524,"Cicadettinae","Cicadettini","Tettigetta","acuta",NA,"Tettigetta acuta","Dlabola",1961
+6544,"species",7524,"Cicadettinae","Cicadettini","Tettigetta","chaharensis",NA,"Tettigetta chaharensis","Kato",1938
+7529,"species",7524,"Cicadettinae","Cicadettini","Tettigetta","dlabolai",NA,"Tettigetta dlabolai","Mozaffarian & Sanborn",2010
+7531,"species",7524,"Cicadettinae","Cicadettini","Tettigetta","golestani",NA,"Tettigetta golestani","Gogala & Schedl",2008
+7532,"species",7524,"Cicadettinae","Cicadettini","Tettigetta","hoggarensis",NA,"Tettigetta hoggarensis","Boulard",1980
+7533,"species",7524,"Cicadettinae","Cicadettini","Tettigetta","isshikii",NA,"Tettigetta isshikii","Kato",1926
+7540,"species",7524,"Cicadettinae","Cicadettini","Tettigetta","maroccana",NA,"Tettigetta maroccana","Boulard",1980
+7541,"species",7524,"Cicadettinae","Cicadettini","Tettigetta","megalopercula",NA,"Tettigetta megalopercula","Mozaffarian & Sanborn",2012
+7542,"species",7524,"Cicadettinae","Cicadettini","Tettigetta","merkli",NA,"Tettigetta merkli","Boulard",1980
+7543,"species",7524,"Cicadettinae","Cicadettini","Tettigetta","omar",NA,"Tettigetta omar","Kirkaldy",1899
+7546,"species",7524,"Cicadettinae","Cicadettini","Tettigetta","prasina",NA,"Tettigetta prasina","Pallas",1773
+7552,"species",7524,"Cicadettinae","Cicadettini","Tettigetta","safavii",NA,"Tettigetta safavii","Mozaffarian & Sanborn",2012
+6637,"species",7524,"Cicadettinae","Cicadettini","Tettigetta","shansiensis",NA,"Tettigetta shansiensis","Esaki & Ishihara",1950
+7553,"species",7524,"Cicadettinae","Cicadettini","Tettigetta","yemenensis",NA,"Tettigetta yemenensis","Schedl",2004
+7554,"genus",6434,"Cicadettinae","Cicadettini","Tettigettacula",NA,NA,"Tettigettacula","Puissant",2010
+7555,"species",7554,"Cicadettinae","Cicadettini","Tettigettacula","baenai",NA,"Tettigettacula baenai","Boulard",2000
+7558,"species",7554,"Cicadettinae","Cicadettini","Tettigettacula","bergevini",NA,"Tettigettacula bergevini","Boulard",1980
+7560,"species",7554,"Cicadettinae","Cicadettini","Tettigettacula","floreae",NA,"Tettigettacula floreae","Boulard",1987
+7561,"species",7554,"Cicadettinae","Cicadettini","Tettigettacula","linaresae",NA,"Tettigettacula linaresae","Boulard",1987
+7562,"species",7554,"Cicadettinae","Cicadettini","Tettigettacula","sedlami",NA,"Tettigettacula sedlami","Boulard",1981
+7563,"genus",6434,"Cicadettinae","Cicadettini","Tettigettalna",NA,NA,"Tettigettalna","Puissant",2010
+7564,"species",7563,"Cicadettinae","Cicadettini","Tettigettalna","afroamissa",NA,"Tettigettalna afroamissa","Costa, Nunes, Marabuto, Mendes & Simões",2017
+7565,"species",7563,"Cicadettinae","Cicadettini","Tettigettalna","aneabi",NA,"Tettigettalna aneabi","Boulard",2000
+7566,"species",7563,"Cicadettinae","Cicadettini","Tettigettalna","argentata",NA,"Tettigettalna argentata","Olivier",1791
+7575,"species",7563,"Cicadettinae","Cicadettini","Tettigettalna","armandi",NA,"Tettigettalna armandi","Puissant",2010
+7576,"species",7563,"Cicadettinae","Cicadettini","Tettigettalna","boulardi",NA,"Tettigettalna boulardi","Puissant",2010
+7577,"species",7563,"Cicadettinae","Cicadettini","Tettigettalna","defauti",NA,"Tettigettalna defauti","Puissant",2010
+7578,"species",7563,"Cicadettinae","Cicadettini","Tettigettalna","estrellae",NA,"Tettigettalna estrellae","Boulard",1982
+7580,"species",7563,"Cicadettinae","Cicadettini","Tettigettalna","helianthemi",NA,"Tettigettalna helianthemi","Rambur",1840
+7585,"subspecies",7580,"Cicadettinae","Cicadettini","Tettigettalna","helianthemi","galantei","Tettigettalna helianthemi galantei","Puissant",2010
+616104,"subspecies",7580,"Cicadettinae","Cicadettini","Tettigettalna","helianthemi","helianthemi","Tettigettalna helianthemi helianthemi","Rambur",1840
+7587,"species",7563,"Cicadettinae","Cicadettini","Tettigettalna","josei",NA,"Tettigettalna josei","Boulard",1982
+7588,"species",7563,"Cicadettinae","Cicadettini","Tettigettalna","mariae",NA,"Tettigettalna mariae","Quartau & Boulard",1995
+7589,"genus",6434,"Cicadettinae","Cicadettini","Tettigettula",NA,NA,"Tettigettula","Puissant",2010
+7590,"species",7589,"Cicadettinae","Cicadettini","Tettigettula","pygmea",NA,"Tettigettula pygmea","Olivier",1791
+7605,"genus",6434,"Cicadettinae","Cicadettini","Tibeta",NA,NA,"Tibeta","Lei & Chou",1997
+7606,"species",7605,"Cicadettinae","Cicadettini","Tibeta","minensis",NA,"Tibeta minensis","Lei & Chou",1997
+7607,"species",7605,"Cicadettinae","Cicadettini","Tibeta","nanna",NA,"Tibeta nanna","Lei & Chou",1997
+7608,"species",7605,"Cicadettinae","Cicadettini","Tibeta","planaria",NA,"Tibeta planaria","Lei & Chou",1997
+7609,"species",7605,"Cicadettinae","Cicadettini","Tibeta","zenobia",NA,"Tibeta zenobia","Distant",1912
+7611,"genus",6434,"Cicadettinae","Cicadettini","Toxala",NA,NA,"Toxala","Moulds",2012
+12144,"species",7611,"Cicadettinae","Cicadettini","Toxala","mckinnonae",NA,"Toxala mckinnonae","Popple",2015
+7612,"species",7611,"Cicadettinae","Cicadettini","Toxala","verna",NA,"Toxala verna","Distant",1912
+7613,"genus",6434,"Cicadettinae","Cicadettini","Toxopeusella",NA,NA,"Toxopeusella","Schmidt",1926
+7614,"species",7613,"Cicadettinae","Cicadettini","Toxopeusella","fakfakensis",NA,"Toxopeusella fakfakensis","Boer",1999
+7615,"species",7613,"Cicadettinae","Cicadettini","Toxopeusella","moluccana",NA,"Toxopeusella moluccana","Kirkaldy",1909
+7620,"species",7613,"Cicadettinae","Cicadettini","Toxopeusella","montana",NA,"Toxopeusella montana","Boer",1999
+7621,"genus",6434,"Cicadettinae","Cicadettini","Tympanistalna",NA,NA,"Tympanistalna","Boulard",1982
+7622,"species",7621,"Cicadettinae","Cicadettini","Tympanistalna","distincta",NA,"Tympanistalna distincta","Rambur",1840
+7623,"species",7621,"Cicadettinae","Cicadettini","Tympanistalna","gastrica",NA,"Tympanistalna gastrica","Stål",1854
+7708,"genus",6434,"Cicadettinae","Cicadettini","Ueana",NA,NA,"Ueana","Distant",1905
+7711,"species",7708,"Cicadettinae","Cicadettini","Ueana","bergerae",NA,"Ueana bergerae","Boulard",1993
+7712,"species",7708,"Cicadettinae","Cicadettini","Ueana","boudinoti",NA,"Ueana boudinoti","Boulard",1992
+7713,"species",7708,"Cicadettinae","Cicadettini","Ueana","bouleti",NA,"Ueana bouleti","Boulard",1993
+7714,"species",7708,"Cicadettinae","Cicadettini","Ueana","cambiangulata",NA,"Ueana cambiangulata","Sanborn",2018
+7715,"species",7708,"Cicadettinae","Cicadettini","Ueana","crepitans",NA,"Ueana crepitans","Boulard",1992
+7716,"species",7708,"Cicadettinae","Cicadettini","Ueana","desserti",NA,"Ueana desserti","Boulard",1997
+7717,"species",7708,"Cicadettinae","Cicadettini","Ueana","fungigera",NA,"Ueana fungigera","Boulard",1991
+7720,"species",7708,"Cicadettinae","Cicadettini","Ueana","harmonia",NA,"Ueana harmonia","Kirkaldy",1905
+7721,"species",7708,"Cicadettinae","Cicadettini","Ueana","hyalinata",NA,"Ueana hyalinata","Boulard",1994
+7723,"species",7708,"Cicadettinae","Cicadettini","Ueana","latreillae",NA,"Ueana latreillae","Boulard",1993
+7724,"species",7708,"Cicadettinae","Cicadettini","Ueana","letocarti",NA,"Ueana letocarti","Boulard",1992
+7725,"species",7708,"Cicadettinae","Cicadettini","Ueana","lifuana",NA,"Ueana lifuana","Montrouzier",1861
+7727,"species",7708,"Cicadettinae","Cicadettini","Ueana","lullae",NA,"Ueana lullae","Boulard",1994
+7728,"species",7708,"Cicadettinae","Cicadettini","Ueana","maculata",NA,"Ueana maculata","Distant",1906
+7729,"species",7708,"Cicadettinae","Cicadettini","Ueana","mesogramma",NA,"Ueana mesogramma","Sanborn",2018
+7730,"species",7708,"Cicadettinae","Cicadettini","Ueana","montaguei",NA,"Ueana montaguei","Distant",1920
+7731,"species",7708,"Cicadettinae","Cicadettini","Ueana","polymnia",NA,"Ueana polymnia","Kirkaldy",1905
+7733,"species",7708,"Cicadettinae","Cicadettini","Ueana","procera",NA,"Ueana procera","Boulard",1994
+7734,"species",7708,"Cicadettinae","Cicadettini","Ueana","quirosi",NA,"Ueana quirosi","Boulard",1994
+7735,"species",7708,"Cicadettinae","Cicadettini","Ueana","rosacea",NA,"Ueana rosacea","Distant",1892
+7736,"species",7708,"Cicadettinae","Cicadettini","Ueana","simonae",NA,"Ueana simonae","Boulard & Moulds",2001
+7737,"species",7708,"Cicadettinae","Cicadettini","Ueana","speciosa",NA,"Ueana speciosa","Boulard",1992
+7738,"species",7708,"Cicadettinae","Cicadettini","Ueana","spectabilis",NA,"Ueana spectabilis","Boulard",1997
+7739,"species",7708,"Cicadettinae","Cicadettini","Ueana","stasserae",NA,"Ueana stasserae","Boulard",1991
+7740,"species",7708,"Cicadettinae","Cicadettini","Ueana","tintinnabula",NA,"Ueana tintinnabula","Boulard",1991
+7741,"species",7708,"Cicadettinae","Cicadettini","Ueana","tiyanni",NA,"Ueana tiyanni","Boulard",1992
+7742,"species",7708,"Cicadettinae","Cicadettini","Ueana","variegata",NA,"Ueana variegata","Boulard",1993
+7624,"genus",6434,"Cicadettinae","Cicadettini","Urabunana",NA,NA,"Urabunana","Distant",1905
+7625,"species",7624,"Cicadettinae","Cicadettini","Urabunana","sericeivitta",NA,"Urabunana sericeivitta","Walker",1862
+7628,"genus",6434,"Cicadettinae","Cicadettini","Uradolichos",NA,NA,"Uradolichos","Moulds",2012
+7629,"species",7628,"Cicadettinae","Cicadettini","Uradolichos","longipennis",NA,"Uradolichos longipennis","Ashton",1914
+7630,"species",7628,"Cicadettinae","Cicadettini","Uradolichos","rotunda",NA,"Uradolichos rotunda","Owen & Moulds",2016
+7743,"genus",6434,"Cicadettinae","Cicadettini","Vastarena",NA,NA,"Vastarena","Delorme",2016
+7744,"species",7743,"Cicadettinae","Cicadettini","Vastarena","pumilus",NA,"Vastarena pumilus","Distant",1892
+7632,"genus",6434,"Cicadettinae","Cicadettini","Xeropsalta",NA,NA,"Xeropsalta","Ewart",2018
+7633,"species",7632,"Cicadettinae","Cicadettini","Xeropsalta","aridula",NA,"Xeropsalta aridula","Ewart",2018
+1127912,"species",7632,"Cicadettinae","Cicadettini","Xeropsalta","eremica",NA,"Xeropsalta eremica","Moulds & Marshall",2025
+7634,"species",7632,"Cicadettinae","Cicadettini","Xeropsalta","festiva",NA,"Xeropsalta festiva","Distant",1907
+7635,"species",7632,"Cicadettinae","Cicadettini","Xeropsalta","rattrayi",NA,"Xeropsalta rattrayi","Ewart",2018
+7636,"species",7632,"Cicadettinae","Cicadettini","Xeropsalta","thomsoni",NA,"Xeropsalta thomsoni","Ewart",2018
+7637,"genus",6434,"Cicadettinae","Cicadettini","Xossarella",NA,NA,"Xossarella","Boulard",1980
+7638,"species",7637,"Cicadettinae","Cicadettini","Xossarella","giovanninae",NA,"Xossarella giovanninae","Boulard",1980
+7639,"species",7637,"Cicadettinae","Cicadettini","Xossarella","marmottani",NA,"Xossarella marmottani","Boulard",1980
+7640,"species",7637,"Cicadettinae","Cicadettini","Xossarella","soussensis",NA,"Xossarella soussensis","Boulard",1980
+7641,"genus",6434,"Cicadettinae","Cicadettini","Yoyetta",NA,NA,"Yoyetta","Moulds",2012
+7642,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","aaede",NA,"Yoyetta aaede","Walker",1850
+7644,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","abdominalis",NA,"Yoyetta abdominalis","Distant",1892
+1446474,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","anthracia",NA,"Yoyetta anthracia","Emery, Bush & Emery",2026
+1370335,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","argentea",NA,"Yoyetta argentea","Popple",2026
+655404,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","australicta",NA,"Yoyetta australicta","Popple & Emery",2022
+1370336,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","burwelli",NA,"Yoyetta burwelli","Popple",2026
+1133402,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","bushi",NA,"Yoyetta bushi","Emery",2025
+7645,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","celis",NA,"Yoyetta celis","Moulds",1988
+1370337,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","clara",NA,"Yoyetta clara","Popple",2026
+1133435,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","corbinorum",NA,"Yoyetta corbinorum","Emery",2025
+655405,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","corindi",NA,"Yoyetta corindi","Popple & Emery",2022
+1446473,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","corona",NA,"Yoyetta corona","Emery, Bush & Emery",2026
+1133416,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","crepita",NA,"Yoyetta crepita","Emery",2025
+7646,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","cumberlandi",NA,"Yoyetta cumberlandi","Emery, Emery & Poople",2015
+1089740,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","darug",NA,"Yoyetta darug","Emery, Emery & Popple",2025
+655408,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","delicata",NA,"Yoyetta delicata","Popple & Emery",2022
+7647,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","denisoni",NA,"Yoyetta denisoni","Distant",1893
+584366,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","douglasi",NA,"Yoyetta douglasi","Popple & Emery",2020
+1370338,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","eastwoodi",NA,"Yoyetta eastwoodi","Popple",2026
+615549,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","electrica",NA,"Yoyetta electrica","Emery, Emery & Popple",2019
+584367,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","enigmatica",NA,"Yoyetta enigmatica","Popple & Emery",2020
+7649,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","fluviatilis",NA,"Yoyetta fluviatilis","Emery, Emery & Poople",2015
+1089747,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","fumea",NA,"Yoyetta fumea","Emery, Emery & Popple",2025
+615547,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","grandis",NA,"Yoyetta grandis","Emery, Emery & Popple",2019
+7650,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","humphreyae",NA,"Yoyetta humphreyae","Moulds & Popple",2018
+7651,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","hunterorum",NA,"Yoyetta hunterorum","Moulds",1988
+655409,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","ignita",NA,"Yoyetta ignita","Popple & Emery",2022
+7652,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","incepta",NA,"Yoyetta incepta","Walker",1850
+7648,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","kershawi",NA,"Yoyetta kershawi","Goding & Froggatt",1904
+1446475,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","lamberti",NA,"Yoyetta lamberti","Emery, Bush & Emery",2026
+7653,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","landsboroughi",NA,"Yoyetta landsboroughi","Distant",1882
+584368,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","loftyensis",NA,"Yoyetta loftyensis","Popple & Emery",2020
+1370339,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","longirostra",NA,"Yoyetta longirostra","Popple",2026
+1446471,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","mcburneyi",NA,"Yoyetta mcburneyi","Emery, Bush & Emery",2026
+1133403,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","nathani",NA,"Yoyetta nathani","Emery",2025
+584369,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","ngarabal",NA,"Yoyetta ngarabal","Popple & Emery",2020
+7655,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","nigrimontana",NA,"Yoyetta nigrimontana","Emery, Emery & Poople",2015
+1370340,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","penetrans",NA,"Yoyetta penetrans","Popple",2026
+1089741,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","psammitica",NA,"Yoyetta psammitica","Emery, Emery & Popple",2025
+615545,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","regalis",NA,"Yoyetta regalis","Emery, Emery & Popple",2019
+7656,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","repetens",NA,"Yoyetta repetens","Emery, Emery & Poople",2015
+599010,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","robertsonae",NA,"Yoyetta robertsonae","Moulds, Popple & Emery",2020
+655410,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","robusta",NA,"Yoyetta robusta","Popple & Emery",2022
+615167,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","serrata",NA,"Yoyetta serrata","Emery, Emery & Popple",2019
+615546,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","spectabilis",NA,"Yoyetta spectabilis","Emery, Emery & Popple",2019
+615166,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","subalpina",NA,"Yoyetta subalpina","Emery, Emery & Popple",2019
+1446470,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","thowra",NA,"Yoyetta thowra","Emery, Bush & Emery",2026
+615544,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","timothyi",NA,"Yoyetta timothyi","Emery, Emery & Popple",2019
+7660,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","tristrigata",NA,"Yoyetta tristrigata","Goding & Froggatt",1904
+615548,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","verrens",NA,"Yoyetta verrens","Emery, Emery & Popple",2019
+1370341,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","wrightae",NA,"Yoyetta wrightae","Popple",2026
+1370342,"species",7641,"Cicadettinae","Cicadettini","Yoyetta","zagona",NA,"Yoyetta zagona","Popple",2026
+7757,"tribe",5975,"Cicadettinae","Katoini","Katoini",NA,NA,"Katoini","Moulds & Marshall",2018
