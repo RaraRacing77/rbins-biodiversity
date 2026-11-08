@@ -342,3 +342,42 @@ Core taxonomic information is retained:
 
 Further review deferred pending synonym and
 nomenclatural analysis.
+
+## 2026-11-08
+
+Completed taxonomy backbone generation.
+
+Outputs:
+
+- taxonomy_master.csv
+- 4,233 accepted taxa processed
+
+Enhancements:
+
+- Scientific name parsing
+- Authority extraction
+- Parenthesised authority detection
+- Fossil detection
+- Unicode authority handling
+- Subfamily and tribe lineage tracking
+
+Validation:
+
+- 4,233 taxa processed successfully
+- Authority column added (TRUE/FALSE)
+- Subfamily propagation restored
+
+Investigation of synonym data:
+
+count_synonyms(taxonomy)
+
+Result:
+
+- 3,070 nomenclatural synonyms detected
+
+Decision:
+
+Synonym processing will be developed as a
+separate workflow in:
+
+04_build_synonym_master.R
