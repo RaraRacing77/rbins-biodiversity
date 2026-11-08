@@ -1,4 +1,4 @@
-# --------------------------------------------------
+# ==================================================
 # Script: 02_explore_taxonomy.R
 #
 # Project:
@@ -24,7 +24,7 @@
 #
 # Date:
 # 2026-11-02
-# --------------------------------------------------
+# ==================================================
 
 # First descendant of Cicadidae
 taxonomy$descendants[[1]]
@@ -52,9 +52,9 @@ str(
   max.level = 2
 )
 
-# --------------------------------------------------
+# ==================================================
 # JSON Structure Findings
-# --------------------------------------------------
+# ==================================================
 #
 # Root:
 # Cicadidae Batsch, 1789
@@ -88,7 +88,7 @@ str(
 #
 # leaf_node = TRUE
 #
-# --------------------------------------------------
+# ==================================================
 depth_analysis <- data.frame(
   Depth = integer(),
   Taxon = character(),
@@ -118,4 +118,51 @@ analyse_depths <- function(node, depth = 0) {
       
     }
   }
-}
+  
+# ==================================================
+# TAXON NAME STRUCTURE
+#
+# Analysis Results:
+#
+# 1 word  -> higher ranks / genus
+# 2 words -> species
+# 3 words -> subspecies
+#
+# Only 2 taxa with 4-word names were found and
+# require individual investigation.
+# ==================================================
+ 
+parsed_results <- lapply(
+  depth_analysis$Taxon,
+  parse_scientific_name
+)
+  
+depth_analysis$Genus <- sapply(
+  parsed_results,
+  function(x) x$genus
+)
+  
+depth_analysis$Species <- sapply(
+  parsed_results,
+  function(x) x$species
+)
+  
+depth_analysis$Subspecies <- sapply(
+  parsed_results,
+  function(x) x$subspecies
+)
+  
+depth_analysis$Name_Words <- sapply(
+  strsplit(
+    depth_analysis$Scientific_Name,
+    " "
+  ),
+  length
+)
+
+#
+# problem_taxa <- subset(
+#  depth_analysis,
+#  Name_Words == 4
+# )
+#

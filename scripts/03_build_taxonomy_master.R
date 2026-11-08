@@ -45,11 +45,14 @@ taxonomy_master <- data.frame(
   Accepted_Name = character(),
   Author = character(),
   Year = integer(),
+  Authority = logical(),
   Status = character(),
   stringsAsFactors = FALSE
 )
 
 # ==================================================
+# Now on to name cleaning functions.
+#
 # clean_taxon_name()
 #
 # Remove HTML formatting from taxon names.
@@ -62,136 +65,47 @@ clean_taxon_name <- function(name) {
 }
 
 # ==================================================
-# parse_taxon_name()
+# parse_fossil()
 #
-# Extract:
-# - accepted name
-# - genus
-# - species
-# - author
-# - year
+# Detect fossil taxa and remove fossil marker.
 # ==================================================
 
-parse_taxon_name <- function(name) {
+parse_fossil <- function(name) {
   
-  clean_name <- clean_taxon_name(name)
+  fossil <- grepl("^†\\s*", name)
   
-  year <- as.integer(
-    sub(".* ([0-9]{4})$", "\\1", clean_name)
-  )
-  
-  no_year <- sub(", [0-9]{4}$", "", clean_name)
-  
-  words <- strsplit(no_year, " ")[[1]]
-  
-  genus <- words[1]
-  
-  species <- words[2]
-  
-  author <- paste(
-    words[3:length(words)],
-    collapse = " "
-  )
-  
-  accepted_name <- paste(
-    genus,
-    species
+  clean_name <- sub(
+    "^†\\s*",
+    "",
+    name
   )
   
   list(
-    accepted_name = accepted_name,
-    genus = genus,
-    species = species,
-    author = author,
-    year = year
+    fossil = fossil,
+    clean_name = clean_name
   )
   
 }
-
-# ==================================================
-# create_taxon_record()
-#
-# Create a taxonomy_master-compatible record.
-# ==================================================
-
-create_taxon_record <- function(
-    otu_id,
-    rank,
-    parent_otu_id = NA,
-    subfamily = NA,
-    tribe = NA,
-    genus = NA,
-    species = NA,
-    accepted_name = NA,
-    author = NA,
-    year = NA,
-    status = "Accepted"
-) {
-  
-  data.frame(
-    OTU_ID = otu_id,
-    Rank = rank,
-    Parent_OTU_ID = parent_otu_id,
-    Subfamily = subfamily,
-    Tribe = tribe,
-    Genus = genus,
-    Species = species,
-    Accepted_Name = accepted_name,
-    Author = author,
-    Year = year,
-    Status = status
-  )
-  
-}
-
-# ==================================================
-# extract_taxon()
-#
-# Convert a taxonomic node into a dataframe row.
-# ==================================================
-
-extract_taxon <- function(
-    node,
-    rank,
-    parent_otu_id = NA,
-    subfamily = NA,
-    tribe = NA,
-    genus = NA
-) {
-  
-  parsed <- parse_taxon_name(node$name)
-  
-  data.frame(
-    OTU_ID = node$otu_id,
-    Rank = rank,
-    Parent_OTU_ID = parent_otu_id,
-    Subfamily = subfamily,
-    Tribe = tribe,
-    Genus = genus,
-    
-    Species = parsed$species,
-    Accepted_Name = parsed$accepted_name,
-    Author = parsed$author,
-    Year = parsed$year,
-    
-    Status = "Accepted"
-  )
-}
-
-# ==================================================
-# Depth Analysis Functions
-# ==================================================
-depth_analysis <- data.frame(
-  Depth = integer(),
-  Taxon = character(),
-  Descendants = integer(),
-  stringsAsFactors = FALSE
-)
-
-analyse_depths()
 
 # ==================================================
 # Build taxonomy_master
+# 
+# Taxonomy Processing Workflow
+#
+# clean_taxon_name()
+#     ↓
+# parse_fossil()
+#     ↓
+# extract_scientific_name()
+#     ↓
+# parse_scientific_name()
+#     ↓
+# parse_authority()
+#     ↓
+# determine_rank()
+#     ↓
+# build_taxonomy_master()
+#
 # ==================================================
 
 build_taxonomy_master <- function(
@@ -202,7 +116,11 @@ build_taxonomy_master <- function(
     tribe = NA_character_
 ) {
   
-  clean_name <- clean_taxon_name(node$name)
+  fossil_info <- parse_fossil(
+    clean_taxon_name(node$name)
+  )
+  
+  clean_name <- fossil_info$clean_name
   
   parsed <- parse_scientific_name(clean_name)
   
@@ -210,54 +128,72 @@ build_taxonomy_master <- function(
   
   # ---- Determine rank ----
   
-  if(depth == 0) {
-    
-    rank <- "family"
-    
-  } else if(depth == 1) {
-    
-    rank <- "subfamily"
+  rank <- determine_rank(
+    depth,
+    parsed
+  )
+  
+  if(rank == "subfamily") {
     
     subfamily <- extract_scientific_name(clean_name)
     
-  } else if(depth == 2) {
-    
-    rank <- "tribe"
+  }
+  
+  if(rank == "tribe") {
     
     tribe <- extract_scientific_name(clean_name)
-    
-  } else if(!is.na(parsed$subspecies)) {
-    
-    rank <- "subspecies"
-    
-  } else if(!is.na(parsed$species)) {
-    
-    rank <- "species"
-    
-  } else {
-    
-    rank <- "genus"
     
   }
   
   # ---- Create record ----
+  #1st determine if fossil or accepted
+  status <- ifelse(
+    fossil_info$fossil,
+    "Fossil",
+    "Accepted"
+  )
+  
+  # ---- Populate taxonomic fields by rank ----
+  
+  genus_value <- NA_character_
+  species_value <- NA_character_
+  subspecies_value <- NA_character_
+  
+  if(rank == "genus") {
+    genus_value <- parsed$genus
+  }
+  
+  if(rank == "species") {
+    genus_value <- parsed$genus
+    species_value <- parsed$species
+  }
+  
+  if(rank == "subspecies") {
+    genus_value <- parsed$genus
+    species_value <- parsed$species
+    subspecies_value <- parsed$subspecies
+  }
   
   record <- data.frame(
     OTU_ID = node$otu_id,
     Rank = rank,
     Parent_OTU_ID = parent_otu_id,
     
+    # Taxonomic lineage
     Subfamily = subfamily,
     Tribe = tribe,
     
-    Genus = parsed$genus,
-    Species = parsed$species,
-    Subspecies = parsed$subspecies,
+    Genus = genus_value,
+    Species = species_value,
+    Subspecies = subspecies_value,
     
     Accepted_Name = extract_scientific_name(clean_name),
     
     Author = authority$author,
     Year = authority$year,
+    Authority = authority$parenthesised,
+    
+    Status = status,
     
     stringsAsFactors = FALSE
   )
@@ -289,34 +225,33 @@ build_taxonomy_master <- function(
 
 # ==================================================
 # CURRENT FINDINGS
+# ==================================================
+# RANK DETERMINATION NOTES
 #
-# Depth 0 = Family
-# Depth 1 = Subfamily
-# Depth 2 = Tribe
-# Depth 3 = Genera
-# Depth 4 = Species
-# Depth 5 = Species/Subspecies
-# Depth 6 = Subspecies
+# Family, Subfamily and Tribe are determined using
+# upper hierarchy levels.
 #
-# Rank cannot be reliably inferred
-# from depth alone.
+# Genus, Species and Subspecies are determined
+# using parsed scientific names.
 #
-# Next task:
-# Develop determine_rank().
+# Scientific name structure:
+#
+# 1 part -> Genus
+# 2 parts -> Species
+# 3 parts -> Subspecies
+#
+# ==================================================
+# Scientific name extraction
 # ==================================================
 
-# ==================================================
-# Rank Determination
-# ==================================================
 extract_scientific_name <- function(clean_name) {
   
-  scientific_name <- sub(
-    "\\s+[A-Z\\(].*$",
-    "",
-    clean_name
+  scientific_name <- stringr::str_remove(
+    clean_name,
+    "\\s+(\\(|[[:upper:]]).*,\\s*\\d{4}\\)?$"
   )
   
-  return(scientific_name)
+  trimws(scientific_name)
   
 }
 
@@ -350,41 +285,21 @@ parse_scientific_name <- function(clean_name) {
   
 }
 
-determine_rank <- function(depth, parsed_name) {
-  
-  if(depth == 0) return("family")
-  
-  if(depth == 1) return("subfamily")
-  
-  if(depth == 2) return("tribe")
-  
-  if(!is.na(parsed_name$subspecies))
-    return("subspecies")
-  
-  if(!is.na(parsed_name$species))
-    return("species")
-  
-  if(!is.na(parsed_name$genus))
-    return("genus")
-  
-  return("unknown")
-}
+# depth_analysis$Scientific_Name <- sapply(
+#   depth_analysis$Taxon,
+#   extract_scientific_name
+# )
 
-depth_analysis$Scientific_Name <- sapply(
-  depth_analysis$Taxon,
-  extract_scientific_name
-)
-
-determine_rank <- function(
-    depth,
-    parsed
-) {
+determine_rank <- function(depth, parsed) {
   
-  if(depth == 0) return("family")
+  if(depth == 0)
+    return("family")
   
-  if(depth == 1) return("subfamily")
+  if(depth == 1)
+    return("subfamily")
   
-  if(depth == 2) return("tribe")
+  if(depth == 2)
+    return("tribe")
   
   if(!is.na(parsed$subspecies))
     return("subspecies")
@@ -398,69 +313,21 @@ determine_rank <- function(
   return("unknown")
 }
 
-
-# ==================================================
-# TAXON NAME STRUCTURE
-#
-# Analysis Results:
-#
-# 1 word  -> higher ranks / genus
-# 2 words -> species
-# 3 words -> subspecies
-#
-# Only 2 taxa with 4-word names were found and
-# require individual investigation.
-# ==================================================
-
-parsed_results <- lapply(
-  depth_analysis$Taxon,
-  parse_scientific_name
-)
-
-depth_analysis$Genus <- sapply(
-  parsed_results,
-  function(x) x$genus
-)
-
-depth_analysis$Species <- sapply(
-  parsed_results,
-  function(x) x$species
-)
-
-depth_analysis$Subspecies <- sapply(
-  parsed_results,
-  function(x) x$subspecies
-)
-
-depth_analysis$Name_Words <- sapply(
-  strsplit(
-    depth_analysis$Scientific_Name,
-    " "
-  ),
-  length
-)
-
 # ==================================================
 # PARSING VALIDATION
 #
-# Name structure analysis:
+# Initial validation identified two anomalous
+# records caused by the author surname "Ōuchi".
 #
-# 1 word  = 656 taxa
-# 2 words = 3440 taxa
-# 3 words = 135 taxa
-# 4 words = 2 taxa
+# Scientific name extraction was subsequently
+# updated to support Unicode uppercase characters.
 #
-# The two 4-word names are caused by the author
-# surname "Ōuchi" being misinterpreted as part of
-# the scientific name.
+# Parsing validation confirmed:
 #
-# Parsing accuracy exceeds 99%.
-# ==================================================
-#
-# problem_taxa <- subset(
-#  depth_analysis,
-#  Name_Words == 4
-# )
+# - Genus extraction
+# - Species extraction
+# - Subspecies extraction
+# - Authority extraction
 #
 # ==================================================
 # parse_authority()
@@ -468,6 +335,8 @@ depth_analysis$Name_Words <- sapply(
 # Extract:
 # - Author
 # - Year
+# Uses extract_scientific_name() to remove the
+# scientific name before parsing authority text.
 # ==================================================
 
 parse_authority <- function(clean_name) {
@@ -511,25 +380,29 @@ parse_authority <- function(clean_name) {
   
   author <- trimws(author)
   
+  parenthesised <- grepl(
+    "^\\(",
+    authority_text
+  )
+  
   list(
     author = author,
-    year = year
-  )
+    year = year,
+    parenthesised = parenthesised
+    )
   
 }
 
 # ==================================================
-# DEVELOPMENT TESTS
-#
-# Commented out unless debugging.
+# Export taxonomy_master
 # ==================================================
-# family <- taxonomy
-# subfamily <- ...
-# species <- ...
-#
-# test_species <- extract_taxon(...)
-#
-# analyse_depths(taxonomy)
-#
-# View(depth_analysis)
 
+write.csv(
+  taxonomy_master,
+  "output/taxonomy_master.csv",
+  row.names = FALSE
+)
+
+cat(
+  "taxonomy_master.csv exported successfully.\n"
+)

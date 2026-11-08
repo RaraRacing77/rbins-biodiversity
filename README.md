@@ -1,23 +1,37 @@
 # RBINS Biodiversity
 
-Repository containing scripts, analyses, notes, and visualisations related to biodiversity data and volunteer work with the Royal Belgian Institute of Natural Sciences (RBINS).
+Repository containing biodiversity data workflows, documentation,
+and analyses developed in support of volunteer work with the Royal
+Belgian Institute of Natural Sciences (RBINS).
 
-## Objectives
+## Current Projects
 
-- Improve R skills
-- Learn biodiversity informatics workflows
-- Explore species occurrence data
-- Develop reproducible analyses
-- Support volunteer projects
+### Cicadidae Taxonomy Workflow
+
+Development of a reproducible workflow to:
+
+- import TaxonWorks JSON exports
+- construct taxonomy tables
+- extract nomenclatural authorship
+- generate data workbooks
+- support collection and biodiversity analyses
+
+## Project Structure
+
+data_raw/         Source data
+data_processed/   Processed datasets
+scripts/          R workflows
+documentation/    Project documentation
+output/           Generated outputs
 
 ## Tools
 
 - R
 - RStudio
-- GitHub
-- GBIF
+- Git & GitHub
+- TaxonWorks
 - tidyverse
-- ggplot2
+- biodiversity informatics standards
 
 ## Related Projects
 

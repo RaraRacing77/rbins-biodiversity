@@ -29,7 +29,7 @@ Status: Complete
 
 ## Phase 3 - Build Taxonomy Master
 
-Status: In progress
+Status: Complete
 
 ### Tasks
 
@@ -41,7 +41,7 @@ Status: In progress
 
 ## Phase 4 - Build Synonym Table
 
-Status: Pending
+Status: In progress
 
 ### Tasks
 
