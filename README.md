@@ -18,11 +18,11 @@ Development of a reproducible workflow to:
 
 ## Project Structure
 
-data_raw/         Source data
-data_processed/   Processed datasets
-scripts/          R workflows
-documentation/    Project documentation
-output/           Generated outputs
+- data_raw/         Source data
+- data_processed/   Processed datasets
+- scripts/          R workflows
+- documentation/    Project documentation
+- output/           Generated outputs
 
 ## Tools
 
