@@ -298,13 +298,9 @@ Example:
 
 Known Issues
 
-A small number of fossil taxa do not conform to the
-standard Family → Subfamily → Tribe → Genus → Species
-hierarchy.
+A small number of fossil taxa do not conform to the standard Family → Subfamily → Tribe → Genus → Species hierarchy.
 
-For these taxa, Rank and Tribe may be populated
-incorrectly because hierarchy depth is interpreted
-using rules developed from extant taxa.
+For these taxa, Rank and Tribe may be populated incorrectly because hierarchy depth is interpreted using rules developed from extant taxa.
 
 Core taxonomic information remains correct:
 
@@ -326,10 +322,7 @@ A small number of bracketed taxa remain:
 - [Sawda] ...
 - [Tettigonia] ...
 
-These taxa represent uncertain or historical
-generic placements and do not conform to the
-standard hierarchy used by the majority of the
-dataset.
+These taxa represent uncertain or historical generic placements and do not conform to the standard hierarchy used by the majority of the dataset.
 
 Core taxonomic information is retained:
 
@@ -340,8 +333,7 @@ Core taxonomic information is retained:
 - Year
 - Authority
 
-Further review deferred pending synonym and
-nomenclatural analysis.
+Further review deferred pending synonym and nomenclatural analysis.
 
 ## 2026-11-08
 
@@ -377,7 +369,84 @@ Result:
 
 Decision:
 
-Synonym processing will be developed as a
-separate workflow in:
+Synonym processing will be developed as a separate workflow in:
 
 04_build_synonym_master.R
+
+## 2026-11-11
+
+### Synonym Exploration
+
+Created and populated a raw synonym dataset.
+
+Developed:
+
+- find_synonyms()
+- find_synonym_examples()
+- extract_synonyms()
+
+Results:
+
+- 3,070 synonym records identified
+- 3,070 synonym records extracted
+- Extraction count matched recursive count exactly
+
+Output:
+
+synonym_master_raw.csv
+
+Structure:
+
+- Accepted_OTU_ID
+- Accepted_Name
+- Synonym_Text
+
+### Findings
+
+Synonym records include:
+
+- Nomenclatural synonyms
+- Misspellings ([sic])
+- Historical combinations
+- Rank variants
+- Variety names
+- Nomenclatural notes ("non")
+
+### Workflow Revision
+
+Synonym processing split into:
+
+04_explore_synonyms.R Exploration and extraction
+
+05_build_synonym_master.R Cleaning and transformation
+
+06_export_workbook.R Final workbook export
+
+### Synonym Master
+
+Started synonym cleaning workflow.
+
+Implemented:
+
+clean_synonym_text()
+
+Current cleaning:
+
+- Remove HTML tags (<i></i>)
+
+Example:
+
+Before: <i>Carinata</i> [sic] Amyot & Audinet-Serville, 1843
+
+After: Carinata [sic] Amyot & Audinet-Serville, 1843
+
+Next tasks:
+
+- Extract Notes field
+- Handle [sic]
+- Handle "non"
+- Handle varieties
+- Resolve character encoding issues
+- Populate final synonym worksheet
+
+Then:
