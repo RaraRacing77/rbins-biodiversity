@@ -45,6 +45,8 @@ Status: In progress
 
 ### Tasks
 
+- Investigate synonym structure
+  - 04_explore_synonyms.R
 - Extract synonyms
 - Link to accepted taxa
 - Populate synonyms worksheet

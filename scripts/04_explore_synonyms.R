@@ -59,3 +59,27 @@ count_synonyms <- function(node) {
   n
   
 }
+
+find_synonym_examples <- function(node) {
+  
+  if(length(node$nomenclatural_synonyms) > 0) {
+    
+    cat("\n")
+    cat("Accepted:", clean_taxon_name(node$name), "\n")
+    print(node$nomenclatural_synonyms)
+    
+    return()
+    
+  }
+  
+  if(length(node$descendants) > 0) {
+    
+    for(child in node$descendants) {
+      
+      find_synonym_examples(child)
+      
+    }
+    
+  }
+  
+}

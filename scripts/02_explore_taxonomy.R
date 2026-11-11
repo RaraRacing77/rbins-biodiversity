@@ -1,29 +1,29 @@
 # ==================================================
-# Script: 02_explore_taxonomy.R
-#
 # Project:
 # RBINS Cicadidae Collection Reorganisation
 #
+# Script: 02_explore_taxonomy.R
+#
 # Purpose:
-# Investigate the structure of the Species File
-# taxonomy export and document the hierarchical
-# relationships between taxa.
+# Explore and document the structure of the
+# Species File taxonomy export.
 #
 # Prerequisite:
-# Run 01_project_setup.R first to load required
-# packages and import taxonomy_cicadidae.json.
+# Run 01_project_setup.R first.
 #
-# Outputs:
+# Output:
 # None
-#
-# Findings:
-# see below
 #
 # Author:
 # Bart van Hoof
 #
 # Date:
 # 2026-11-02
+# ==================================================
+
+
+# ==================================================
+# Initial Structure Inspection
 # ==================================================
 
 # First descendant of Cicadidae
@@ -52,43 +52,56 @@ str(
   max.level = 2
 )
 
+
 # ==================================================
 # JSON Structure Findings
 # ==================================================
 #
 # Root:
+#
 # Cicadidae Batsch, 1789
 #
-# Hierarchy:
+# Typical Hierarchy:
 #
 # Family
 #   -> Subfamily
 #     -> Tribe
 #       -> Genus
 #         -> Species
+#           -> Subspecies
 #
 # Example:
 #
 # Cicadidae
 #   -> Cicadettinae
 #     -> Aragualnini
-#      -> Aragualna
-#       -> Aragualna plenalinea
-#
-# Notes:
+#       -> Aragualna
+#         -> Aragualna plenalinea
 #
 # Taxonomic nodes contain:
+#
 # - otu_id
 # - name
+# - otu_clones
+# - similar_otus
 # - nomenclatural_synonyms
+# - common_names
 # - descendants
 # - leaf_node
 #
-# Species are identified by:
+# Species File observations:
 #
-# leaf_node = TRUE
+# - Species generally occur at leaf nodes.
+# - Some fossil genera occur directly below Family.
+# - Some taxa occur as uncertain placements,
+#   e.g. [Cicada] acutipennis.
 #
 # ==================================================
+
+# ==================================================
+# Depth Analysis
+# ==================================================
+
 depth_analysis <- data.frame(
   Depth = integer(),
   Taxon = character(),
@@ -96,14 +109,16 @@ depth_analysis <- data.frame(
   stringsAsFactors = FALSE
 )
 
+
 analyse_depths <- function(node, depth = 0) {
   
   depth_analysis <<- rbind(
     depth_analysis,
     data.frame(
       Depth = depth,
-      Taxon = clean_taxon_name(node$name),
-      Descendants = length(node$descendants)
+      Taxon = node$name,
+      Descendants = length(node$descendants),
+      stringsAsFactors = FALSE
     )
   )
   
@@ -117,52 +132,109 @@ analyse_depths <- function(node, depth = 0) {
       )
       
     }
+    
   }
   
-# ==================================================
-# TAXON NAME STRUCTURE
-#
-# Analysis Results:
-#
-# 1 word  -> higher ranks / genus
-# 2 words -> species
-# 3 words -> subspecies
-#
-# Only 2 taxa with 4-word names were found and
-# require individual investigation.
-# ==================================================
- 
-parsed_results <- lapply(
-  depth_analysis$Taxon,
-  parse_scientific_name
-)
-  
-depth_analysis$Genus <- sapply(
-  parsed_results,
-  function(x) x$genus
-)
-  
-depth_analysis$Species <- sapply(
-  parsed_results,
-  function(x) x$species
-)
-  
-depth_analysis$Subspecies <- sapply(
-  parsed_results,
-  function(x) x$subspecies
-)
-  
-depth_analysis$Name_Words <- sapply(
-  strsplit(
-    depth_analysis$Scientific_Name,
-    " "
-  ),
-  length
-)
+}
 
+# Run analysis
+analyse_depths(taxonomy)
+
+# ==================================================
+# Depth Analysis Findings
+# ==================================================
 #
-# problem_taxa <- subset(
-#  depth_analysis,
-#  Name_Words == 4
+# Typical depths:
+#
+# Depth 0 = Family
+# Depth 1 = Subfamily
+# Depth 2 = Tribe
+# Depth 3 = Genus
+# Depth 4 = Species
+# Depth 5 = Species / Subspecies
+# Depth 6 = Subspecies
+#
+# Important:
+#
+# Rank cannot always be inferred from depth alone.
+#
+# Exceptions include:
+#
+# - Fossil taxa
+# - Uncertain generic placements
+# - Historical taxa
+#
+# ==================================================
+
+# ==================================================
+# Taxon Name Structure Findings
+# ==================================================
+#
+# Scientific name structure:
+#
+# 1 word  = genus or higher rank
+# 2 words = species
+# 3 words = subspecies
+#
+# Initial investigation identified two apparent
+# four-word names.
+#
+# Subsequent validation showed these were caused by
+# Unicode author names (e.g. Ōuchi) rather than
+# scientific name structure.
+#
+# Parsing accuracy exceeded 99%.
+#
+# ==================================================
+
+# ==================================================
+# Nomenclatural Synonym Findings
+# ==================================================
+#
+# Synonyms are stored in:
+#
+# node$nomenclatural_synonyms
+#
+# Synonyms occur at multiple taxonomic ranks:
+#
+# - Subfamily
+# - Tribe
+# - Genus
+# - Species
+#
+# Exploration identified:
+#
+# - True synonyms
+# - Misspellings [sic]
+# - Historical combinations
+# - Rank variants
+# - Replacement names
+# - Variety names
+#
+# Total synonym records discovered:
+#
+# 3070
+#
+# Dedicated synonym processing moved to:
+#
+# 04_build_synonym_master.R
+#
+# ==================================================
+
+# ==================================================
+# Historical Investigation Snippets
+#
+# Retained for reference only.
+# ==================================================
+#
+# View(depth_analysis)
+#
+# subset(
+#   depth_analysis,
+#   Descendants == 0
 # )
 #
+# Additional exploratory code moved to project
+# milestones and production scripts.
+#
+# ==================================================
