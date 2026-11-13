@@ -16,13 +16,13 @@ Development of a reproducible workflow to:
 - generate data workbooks
 - support collection and biodiversity analyses
 
-## Project Structure
+## Project Folder Structure
 
-- data_raw/         Source data
-- data_processed/   Processed datasets
-- scripts/          R workflows
-- documentation/    Project documentation
-- output/           Generated outputs
+- `data_raw/`: Source data
+- `data_processed/`: Processed datasets
+- `scripts/`: R workflows
+- `documentation/`: Project documentation
+- `output/`: Generated outputs
 
 ## Tools
 
@@ -31,8 +31,8 @@ Development of a reproducible workflow to:
 - Git & GitHub
 - TaxonWorks
 - tidyverse
-- biodiversity informatics standards
+- biodiversity information standards
 
 ## Related Projects
 
-- Searching for Cullum's Bee - see my cullumanus repository
+- *Searching for Cullum's Bee* - see my cullumanus repository
