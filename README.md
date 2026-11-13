@@ -68,7 +68,5 @@ with GBIF and other biodiversity data infrastructures.
 
 ## Related Projects
 
-## Related Projects
-
 - [Searching for Cullum's Bee](https://searchingforcullumanus.com/)
 - Cullumanus GitHub repository
